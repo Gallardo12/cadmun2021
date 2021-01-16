@@ -14,5 +14,61 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('home');
+    return view('welcome');
 });
+
+Route::get('/general-assembly', function () {
+    return view('committees.ga');
+});
+
+Route::get('/security-council', function () {
+    return view('committees.sc');
+});
+
+Route::get('/world-health-organization', function () {
+    return view('committees.who');
+});
+
+Route::get('/ecosoc', function () {
+    return view('committees.ecosoc');
+});
+
+Route::get('/un-women', function () {
+    return view('committees.unwomen');
+});
+
+Route::get('/iaea', function () {
+    return view('committees.iaea');
+});
+
+Route::get('/unoosa', function () {
+    return view('committees.unoosa');
+});
+
+Route::get('/human-rights', function () {
+    return view('committees.hr');
+});
+
+Route::get('/international-court-justice', function () {
+    return view('committees.icj');
+});
+
+Route::get('/league-third-reich', function () {
+    return view('committees.ltr');
+});
+
+Route::get('/futuristic-world-league', function () {
+    return view('committees.fwl');
+});
+
+Route::get('/futuristic-world-league-6to', function () {
+    return view('committees.fwl6');
+});
+
+Route::get('/un-peacekeeping-program', function () {
+    return view('committees.unpp');
+});
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
