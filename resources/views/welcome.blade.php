@@ -48,19 +48,19 @@
                             <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown"
                                 aria-haspopup="true" aria-expanded="false">Committees</a>
                             <div class="dropdown-menu" aria-labelledby="dropdown04">
-                                <a class="dropdown-item" href="/general-assembly">GA</a>
+                                <a class="dropdown-item active" href="/general-assembly">GA</a>
                                 <a class="dropdown-item" href="/security-council">SC</a>
-                                <a class="dropdown-item" href="/WHO">WHO</a>
-                                <a class="dropdown-item" href="committee-4-ecosoc.html">ECOSOC</a>
-                                <a class="dropdown-item" href="committee-5-unwomen.html">UN Women</a>
-                                <a class="dropdown-item" href="committee-6-iaea.html">IAEA</a>
-                                <a class="dropdown-item" href="committee-7-unoosa.html">UNOOSA</a>
-                                <a class="dropdown-item" href="committee-8-hr.html">HR</a>
-                                <a class="dropdown-item" href="committee-9-icj.html">ICJ</a>
-                                <a class="dropdown-item" href="committee-10-ltr.html">LTR</a>
-                                <a class="dropdown-item" href="committee-11-fwl.html">FWL</a>
-                                <a class="dropdown-item" href="committee-12-fwl6to.html">FWL (6th Graders)</a>
-                                <a class="dropdown-item" href="committee-13-unpp.html">UN Peacekeeping Program</a>
+                                <a class="dropdown-item" href="/world-health-organization">WHO</a>
+                                <a class="dropdown-item" href="/ecosoc">ECOSOC</a>
+                                <a class="dropdown-item" href="/un-women">UN Women</a>
+                                <a class="dropdown-item" href="/iaea">IAEA</a>
+                                <a class="dropdown-item" href="/unoosa">UNOOSA</a>
+                                <a class="dropdown-item" href="/human-rights">HR</a>
+                                <a class="dropdown-item" href="/international-court-justice">ICJ</a>
+                                <a class="dropdown-item" href="/league-third-reich">LTR</a>
+                                <a class="dropdown-item" href="/futuristic-world-league">FWL</a>
+                                <a class="dropdown-item" href="/futuristic-world-league-6to">FWL (6th Graders)</a>
+                                <a class="dropdown-item" href="/un-peacekeeping-program">UN Peacekeeping Program</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Blog</a>
