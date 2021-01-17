@@ -1,8 +1,8 @@
-<head>
-    <title>CADMUN 2021 - General Assembly</title>
-</head>
+@extends('layouts.app')
 
-@extends('layouts.committee')
+@section('page-name')
+GA
+@endsection
 
 @section('content')
 <!--START INNER PAGE-->
@@ -33,9 +33,9 @@
             <div class="col-md-8">
                 <h2 class="mb-5" style="text-align: center;">Topic: The Restructuring of International Ideologies
                     Regarding Social Justice</h2>
-                <div class="row">
-                    <div style="text-align: left;">
-                        <h4 class="d-flex" style="text-align: left;vertical-align: middle;">
+                <div class="d-flex justify-content-center">
+                    <div style="text-align: center;">
+                        <h4 class="d-flex" style="text-align: center;vertical-align: middle;">
                             <span class="text-primary mx-3" style="font-size: 48px;">
                                 <ion-icon name="mail-outline"></ion-icon>
                             </span>
@@ -44,20 +44,22 @@
                         </h4>
                     </div>
                 </div>
-                <p class="mb-5" style="margin-top: -10px;">
-                    <a href="mailto:general.assembly@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
-                </p>
+                <div class="d-flex justify-content-center">
+                    <p class="mb-5" style="margin-top: -10px;">
+                        <a href="mailto:general.assembly@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
+                    </p>
+                </div>
                 <p class="mb-3" style="text-align: justify; font-size: 20px;">Founded in 1945, the United Nations
-                    General Assembly is the main organ of the UN. It is considered the democratic heart of the
-                    United Nations, it serves as the main deliberative, policymaking, and representative body. The
-                    General Assembly has debates of peace, security, development, human rights, among others. This
-                    committee has huge relevance and influence, since key decisions that affect all 193 Member
-                    States are made. The General Assembly has the authority to approve or not a resolution made by
-                    another committee. It requires the best and most prepared delegates that will be able to analyze
-                    solutions, in order to choose the best one.</p>
-                <p class="mb-2" style="font-size: 23px; text-align: center;"><b>LEVEL: MIDDLE SCHOOL & HIGH
-                        SCHOOL</b></p>
-                <p class="pt-5 mb-5">
+                    General Assembly is the main organ of the UN. It is considered the democratic heart of the United
+                    Nations, it serves as the main deliberative, policymaking, and representative body. The General
+                    Assembly has debates of peace, security, development, human rights, among others. This committee has
+                    huge relevance and influence, since key decisions that affect all 193 Member States are made. The
+                    General Assembly has the authority to approve or not a resolution made by another committee. It
+                    requires the best and most prepared delegates that will be able to analyze solutions, in order to
+                    choose the best one.</p>
+                <p class="mb-2 text-center" style="font-size: 23px; background-color: #1155cc; color: white;"><b>BLUE
+                        DIVISION (9TH - 12TH)</b></p>
+                <p class="pt-5 mb-5 text-center">
                     <a href="https://www.un.org/en/ga/" class="btn btn-primary p-3">Visit Website</a>
                     <a href="#" class="btn btn-primary p-3">Background Paper</a>
                 </p>

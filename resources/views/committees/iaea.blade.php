@@ -1,8 +1,8 @@
-<head>
-    <title>CADMUN 2021 - IAEA</title>
-</head>
+@extends('layouts.app')
 
-@extends('layouts.committee')
+@section('page-name')
+IAEA
+@endsection
 
 @section('content')
 <!--START INNER PAGE-->
@@ -31,9 +31,9 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-md-8">
-                <h2 class="mb-5" style="text-align: center;">Topic: Use of Nuclear Related Techniques in Nutrition
-                    and Agriculture</h2>
-                <div class="row">
+                <h2 class="mb-5" style="text-align: center;">Topic: Use of Nuclear Related Techniques in Nutrition and
+                    Agriculture</h2>
+                <div class="d-flex justify-content-center">
                     <div style="text-align: left;">
                         <h4 class="d-flex" style="text-align: left;vertical-align: middle;">
                             <span class="text-primary mx-3" style="font-size: 48px;">
@@ -44,16 +44,19 @@
                         </h4>
                     </div>
                 </div>
-                <p class="mb-5" style="margin-top: -10px;">
-                    <a href="mailto:iaea@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
-                </p>
+                <div class="d-flex justify-content-center">
+                    <p class="mb-5" style="margin-top: -10px;">
+                        <a href="mailto:iaea@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
+                    </p>
+                </div>
                 <p class="mb-3" style="text-align: justify; font-size: 20px;">The International Atomic Energy Agency
                     focuses on the safe, peaceful and secure management and use of nuclear science, energy and
-                    technology. It was established in 1957 and even though it is an independent organization it
-                    reports to the General Assembly and the Security Council. It consists of three main pillars;
-                    Safety and Security, Science and Technology, and Safeguards and Verification.</p>
-                <p class="mb-2" style="font-size: 23px; text-align: center;"><b>LEVEL: MIDDLE SCHOOL</b></p>
-                <p class="pt-5 mb-5">
+                    technology. It was established in 1957 and even though it is an independent organization it reports
+                    to the General Assembly and the Security Council. It consists of three main pillars; Safety and
+                    Security, Science and Technology, and Safeguards and Verification.</p>
+                <p class="mb-2 text-center" style="font-size: 23px; background-color: #ffff00; color: black;"><b>YELLOW
+                        DIVISION (7TH - 9TH)</b></p>
+                <p class="pt-5 mb-5 text-center">
                     <a href="https://www.iaea.org/" class="btn btn-primary p-3">Visit Website</a>
                     <a href="#" class="btn btn-primary p-3">Background Paper</a>
                 </p>

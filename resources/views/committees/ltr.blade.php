@@ -1,8 +1,8 @@
-<head>
-    <title>CADMUN 2021 - League of the Third Reich</title>
-</head>
+@extends('layouts.app')
 
-@extends('layouts.committee')
+@section('page-name')
+LTR
+@endsection
 
 @section('content')
 <!--START INNER PAGE-->
@@ -31,10 +31,10 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-md-8">
-                <h2 class="mb-5" style="text-align: center;">Topic: Creating a New International Organization Based
-                    on Nazi Germany Ideals to Lay the Foundations for Peace and the Reorganization of International
+                <h2 class="mb-5" style="text-align: center;">Topic: Creating a New International Organization Based on
+                    Nazi Germany Ideals to Lay the Foundations for Peace and the Reorganization of International
                     Relations</h2>
-                <div class="row">
+                <div class="d-flex justify-content-center">
                     <div style="text-align: left;">
                         <h4 class="d-flex" style="text-align: left;vertical-align: middle;">
                             <span class="text-primary mx-3" style="font-size: 48px;">
@@ -45,21 +45,23 @@
                         </h4>
                     </div>
                 </div>
-                <p class="mb-5" style="margin-top: -10px;">
-                    <a href="mailto:ltr@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
-                </p>
+                <div class="d-flex justify-content-center">
+                    <p class="mb-5" style="margin-top: -10px;">
+                        <a href="mailto:ltr@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
+                    </p>
+                </div>
                 <p class="mb-3" style="text-align: justify; font-size: 20px;">CADMUN 2021 presents a new fantasy
-                    committee, The League of Third Reich! This committee was established in 1945, in an alternate
-                    ending of WWII in which Hitler won the war. What would have happened if the Nazi Germany was
-                    successful during this belic conflict? Would the global regime of Nazis stay for a long time?
-                    The global powers would have remained crossed armed expecting nothing? The new global order in
-                    this alternative world is in your hands, you can make the difference being contrary of Nazi
-                    Germany, or support Hitler’s ideals by selecting an Axis power nation. If you as a delegate want
-                    to be part of this new committee, join the League of Third Reich, play as a delegate set in
-                    1945, and be part of this new and interactive experience!</p>
-                <p class="mb-2" style="font-size: 23px; text-align: center;"><b>LEVEL: 9TH GRADERS & HIGH SCHOOL</b>
-                </p>
-                <p class="pt-5 mb-5">
+                    committee, The League of Third Reich! This committee was established in 1945, in an alternate ending
+                    of WWII in which Hitler won the war. What would have happened if the Nazi Germany was successful
+                    during this belic conflict? Would the global regime of Nazis stay for a long time? The global powers
+                    would have remained crossed armed expecting nothing? The new global order in this alternative world
+                    is in your hands, you can make the difference being contrary of Nazi Germany, or support Hitler’s
+                    ideals by selecting an Axis power nation. If you as a delegate want to be part of this new
+                    committee, join the League of Third Reich, play as a delegate set in 1945, and be part of this new
+                    and interactive experience!</p>
+                <p class="mb-2 text-center" style="font-size: 23px; background-color: #1155cc; color: white;"><b>BLUE
+                        DIVISION (9TH - 12TH)</b></p>
+                <p class="pt-5 mb-5 text-center">
                     <!--<a href="https://www.un.org/en/ga/" class="btn btn-primary p-3">Visit Website</a>-->
                     <a href="#" class="btn btn-primary p-3">Background Paper</a>
                 </p>

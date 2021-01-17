@@ -1,8 +1,8 @@
-<head>
-    <title>CADMUN 2021 - UN Peacekeeping Program</title>
-</head>
+@extends('layouts.app')
 
-@extends('layouts.committee')
+@section('page-name')
+UNPP
+@endsection
 
 @section('content')
 <!--START INNER PAGE-->
@@ -32,9 +32,9 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-md-8">
-                <h2 class="mb-5" style="text-align: center;">Topic: Intercommunal Violence and Persistent Attacks
-                    Across West Africa</h2>
-                <div class="row">
+                <h2 class="mb-5" style="text-align: center;">Topic: Intercommunal Violence and Persistent Attacks Across
+                    West Africa</h2>
+                <div class="d-flex justify-content-center">
                     <div style="text-align: left;">
                         <h4 class="d-flex" style="text-align: left;vertical-align: middle;">
                             <span class="text-primary mx-3" style="font-size: 48px;">
@@ -45,21 +45,23 @@
                         </h4>
                     </div>
                 </div>
-                <p class="mb-5" style="margin-top: -10px;">
-                    <a href="mailto:un.peacekeeping.program@cadmun.org" class="btn btn-primary px-3 py-2">Send
-                        e-mail</a>
-                </p>
-                <p class="mb-3" style="text-align: justify; font-size: 20px;">UN Peacekeeping helps countries
-                    navigate the difficult path from conflict to peace. It has unique strengths, including
-                    legitimacy, burden sharing, and an ability to deploy troops and police worldwide, integrating
-                    them with civilian peacekeepers to address a range of mandates set by the UN Security Council
-                    and General Assembly. Its main roles are to protect civilians; prevent conflicts; promote human
-                    rights and women peace and security; build Rule of Law and Security Institutions; advance
-                    political solutions to conflict, and deliver operational support. The ultimate objective of this
-                    committee is to create lasting peaceful relationships between nations.</p>
-                <p class="mb-2" style="font-size: 23px; text-align: center;"><b>LEVEL: MIDDLE SCHOOL & HIGH
-                        SCHOOL</b></p>
-                <p class="pt-5 mb-5">
+                <div class="d-flex justify-content-center">
+                    <p class="mb-5" style="margin-top: -10px;">
+                        <a href="mailto:un.peacekeeping.program@cadmun.org" class="btn btn-primary px-3 py-2">Send
+                            e-mail</a>
+                    </p>
+                </div>
+                <p class="mb-3" style="text-align: justify; font-size: 20px;">UN Peacekeeping helps countries navigate
+                    the difficult path from conflict to peace. It has unique strengths, including legitimacy, burden
+                    sharing, and an ability to deploy troops and police worldwide, integrating them with civilian
+                    peacekeepers to address a range of mandates set by the UN Security Council and General Assembly. Its
+                    main roles are to protect civilians; prevent conflicts; promote human rights and women peace and
+                    security; build Rule of Law and Security Institutions; advance political solutions to conflict, and
+                    deliver operational support. The ultimate objective of this committee is to create lasting peaceful
+                    relationships between nations.</p>
+                <p class="mb-2 text-center" style="font-size: 23px; background-color: #1155cc; color: white;"><b>BLUE
+                        DIVISION (9TH - 12TH)</b></p>
+                <p class="pt-5 mb-5 text-center">
                     <a href="https://peacekeeping.un.org/en" class="btn btn-primary p-3">Visit Website</a>
                     <a href="#" class="btn btn-primary p-3">Background Paper</a>
                 </p>

@@ -1,8 +1,8 @@
-<head>
-    <title>CADMUN 2021 - ECOSOC</title>
-</head>
+@extends('layouts.app')
 
-@extends('layouts.committee')
+@section('page-name')
+ECOSOC
+@endsection
 
 @section('content')
 <!--START INNER PAGE-->
@@ -31,9 +31,8 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-md-8">
-                <h2 class="mb-5" style="text-align: center;">Topic: Open Agenda Regarding the Achievement of SDGs
-                </h2>
-                <div class="row">
+                <h2 class="mb-5" style="text-align: center;">Topic: Open Agenda Regarding the Achievement of SDGs</h2>
+                <div class="d-flex justify-content-center">
                     <div style="text-align: left;">
                         <h4 class="d-flex" style="text-align: left;vertical-align: middle;">
                             <span class="text-primary mx-3" style="font-size: 48px;">
@@ -44,19 +43,22 @@
                         </h4>
                     </div>
                 </div>
-                <p class="mb-5" style="margin-top: -10px;">
-                    <a href="mailto:ecosoc@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
-                </p>
-                <p class="mb-3" style="text-align: justify; font-size: 20px;">Established in 1945, ECOSOC is one of
-                    the main organs of the United Nations. It concentrates in the three dimensions of
-                    sustainability; the economic, social and environmental. The Economic and Social Council works
-                    with coordinating goals agreed internationally. It organizes the work of 14 specialized agencies
-                    of the United Nations. Every year in July ECOSOC holds a four-week session in Geneva or New York
-                    with crucial economic committees like the International Monetary Fund and the World Bank, they
-                    discuss goals and challenges like the 2030 Agenda for Sustainable Development. This organ
-                    encourages innovation, debate, and always moving forward.</p>
-                <p class="mb-2" style="font-size: 23px; text-align: center;"><b>LEVEL: HIGH SCHOOL</b></p>
-                <p class="pt-5 mb-5">
+                <div class="d-flex justify-content-center">
+                    <p class="mb-5" style="margin-top: -10px;">
+                        <a href="mailto:ecosoc@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
+                    </p>
+                </div>
+                <p class="mb-3" style="text-align: justify; font-size: 20px;">Established in 1945, ECOSOC is one of the
+                    main organs of the United Nations. It concentrates in the three dimensions of sustainability; the
+                    economic, social and environmental. The Economic and Social Council works with coordinating goals
+                    agreed internationally. It organizes the work of 14 specialized agencies of the United Nations.
+                    Every year in July ECOSOC holds a four-week session in Geneva or New York with crucial economic
+                    committees like the International Monetary Fund and the World Bank, they discuss goals and
+                    challenges like the 2030 Agenda for Sustainable Development. This organ encourages innovation,
+                    debate, and always moving forward.</p>
+                <p class="mb-2 text-center" style="font-size: 23px; background-color: #741b47; color: white;"><b>PURPLE
+                        DIVISION (10TH - COLLEGE)</b></p>
+                <p class="pt-5 mb-5 text-center">
                     <a href="https://www.un.org/dppa/decolonization/en/ecosoc" class="btn btn-primary p-3">Visit
                         Website</a>
                     <a href="#" class="btn btn-primary p-3">Background Paper</a>

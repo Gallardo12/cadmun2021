@@ -1,8 +1,8 @@
-<head>
-    <title>CADMUN 2021 - UNOOSA</title>
-</head>
+@extends('layouts.app')
 
-@extends('layouts.committee')
+@section('page-name')
+UNOOSA
+@endsection
 
 @section('content')
 <!--START INNER PAGE-->
@@ -33,7 +33,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <h2 class="mb-5" style="text-align: center;">Topic: Space Security and Militarization</h2>
-                <div class="row">
+                <div class="d-flex justify-content-center">
                     <div style="text-align: left;">
                         <h4 class="d-flex" style="text-align: left;vertical-align: middle;">
                             <span class="text-primary mx-3" style="font-size: 48px;">
@@ -44,20 +44,22 @@
                         </h4>
                     </div>
                 </div>
-                <p class="mb-5" style="margin-top: -10px;">
-                    <a href="mailto:unoosa@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
-                </p>
-                <p class="mb-3" style="text-align: justify; font-size: 20px;">The United Nations Office for Outer
-                    Space Affairs was formed in 1958. It was created as an assistant to the United Nations Committee
-                    on the Peaceful Uses of Outer Space. Its objective is to promote the sustainable and peaceful
-                    use of space science and exploration. UNOOSA is responsible for assisting any regulatory and
-                    legal frameworks regarding space activity that the United Nations Member States may establish.
-                    It keeps record of the objects launched into space and advises space law to NGOs and
-                    governments. It helps developing countries to have access to the use of space science
-                    encouraging a sustainable socioeconomic development.</p>
-                <p class="mb-2" style="font-size: 23px; text-align: center;"><b>LEVEL: MIDDLE SCHOOL & HIGH
-                        SCHOOL</b></p>
-                <p class="pt-5 mb-5">
+                <div class="d-flex justify-content-center">
+                    <p class="mb-5" style="margin-top: -10px;">
+                        <a href="mailto:unoosa@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
+                    </p>
+                </div>
+                <p class="mb-3" style="text-align: justify; font-size: 20px;">The United Nations Office for Outer Space
+                    Affairs was formed in 1958. It was created as an assistant to the United Nations Committee on the
+                    Peaceful Uses of Outer Space. Its objective is to promote the sustainable and peaceful use of space
+                    science and exploration. UNOOSA is responsible for assisting any regulatory and legal frameworks
+                    regarding space activity that the United Nations Member States may establish. It keeps record of the
+                    objects launched into space and advises space law to NGOs and governments. It helps developing
+                    countries to have access to the use of space science encouraging a sustainable socioeconomic
+                    development.</p>
+                <p class="mb-2 text-center" style="font-size: 23px; background-color: #ff0000; color: white;"><b>RED
+                        DIVISION (7TH - 10TH)</b></p>
+                <p class="pt-5 mb-5 text-center">
                     <a href="https://www.unoosa.org/" class="btn btn-primary p-3">Visit Website</a>
                     <a href="#" class="btn btn-primary p-3">Background Paper</a>
                 </p>

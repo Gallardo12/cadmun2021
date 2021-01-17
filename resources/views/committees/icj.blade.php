@@ -1,8 +1,8 @@
-<head>
-    <title>CADMUN 2021 - International Court of Justice</title>
-</head>
+@extends('layouts.app')
 
-@extends('layouts.committee')
+@section('page-name')
+ICJ
+@endsection
 
 @section('content')
 <!--START INNER PAGE-->
@@ -32,7 +32,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <h2 class="mb-5" style="text-align: center;">Topic: Violations on the Treaty of Amity</h2>
-                <div class="row">
+                <div class="d-flex justify-content-center">
                     <div style="text-align: left;">
                         <h4 class="d-flex" style="text-align: left;vertical-align: middle;">
                             <span class="text-primary mx-3" style="font-size: 48px;">
@@ -43,18 +43,21 @@
                         </h4>
                     </div>
                 </div>
-                <p class="mb-5" style="margin-top: -10px;">
-                    <a href="mailto:icj@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
-                </p>
-                <p class="mb-3" style="text-align: justify; font-size: 20px;">The International Court of Justice is
-                    the most relevant magisterial committee of the United Nations. It started working in April 1946.
-                    Its main objective is to solve international legal controversies that the States submit with
-                    international law and to emit opinions about legal matters by specialized organs and agencies
-                    that the United Nations authorize. The General Assembly and the Security Council elect 15 judges
-                    (but in this case there will be more) who will compose the court. The official languages are
-                    French and English (in this case only English).</p>
-                <p class="mb-2" style="font-size: 23px; text-align: center;"><b>LEVEL: HIGH SCHOOL</b></p>
-                <p class="pt-5 mb-5">
+                <div class="d-flex justify-content-center">
+                    <p class="mb-5" style="margin-top: -10px;">
+                        <a href="mailto:icj@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
+                    </p>
+                </div>
+                <p class="mb-3" style="text-align: justify; font-size: 20px;">The International Court of Justice is the
+                    most relevant magisterial committee of the United Nations. It started working in April 1946. Its
+                    main objective is to solve international legal controversies that the States submit with
+                    international law and to emit opinions about legal matters by specialized organs and agencies that
+                    the United Nations authorize. The General Assembly and the Security Council elect 15 judges (but in
+                    this case there will be more) who will compose the court. The official languages are French and
+                    English (in this case only English).</p>
+                <p class="mb-2 text-center" style="font-size: 23px; background-color: #741b47; color: white;"><b>PURPLE
+                        DIVISION (10TH - COLLEGE)</b></p>
+                <p class="pt-5 mb-5 text-center">
                     <a href="https://www.icj-cij.org/en" class="btn btn-primary p-3">Visit Website</a>
                     <a href="#" class="btn btn-primary p-3">Background Paper</a>
                 </p>

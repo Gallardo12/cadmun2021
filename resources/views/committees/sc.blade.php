@@ -1,8 +1,8 @@
-<head>
-    <title>CADMUN 2021 - Security Council</title>
-</head>
+@extends('layouts.app')
 
-@extends('layouts.committee')
+@section('page-name')
+SC
+@endsection
 
 @section('content')
 <!--START INNER PAGE-->
@@ -31,9 +31,9 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-md-8">
-                <h2 class="mb-5" style="text-align: center;">Topic: Preemptive Ban on the Development, Production,
-                    and Use of Fully Autonomous Weapons</h2>
-                <div class="row">
+                <h2 class="mb-5" style="text-align: center;">Topic: Preemptive Ban on the Development, Production, and
+                    Use of Fully Autonomous Weapons</h2>
+                <div class="d-flex justify-content-center">
                     <div style="text-align: left;">
                         <h4 class="d-flex" style="text-align: left;vertical-align: middle;">
                             <span class="text-primary mx-3" style="font-size: 48px;">
@@ -44,19 +44,22 @@
                         </h4>
                     </div>
                 </div>
-                <p class="mb-5" style="margin-top: -10px;">
-                    <a href="mailto:security.council@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
-                </p>
-                <p class="mb-3" style="text-align: justify; font-size: 20px;">The United Nations Security Council is
-                    one of the principal organs of the United Nations. It was founded in 1945 with the objective of
+                <div class="d-flex justify-content-center">
+                    <p class="mb-5" style="margin-top: -10px;">
+                        <a href="mailto:security.council@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
+                    </p>
+                </div>
+                <p class="mb-3" style="text-align: justify; font-size: 20px;">The United Nations Security Council is one
+                    of the principal organs of the United Nations. It was founded in 1945 with the objective of
                     maintaining peace and security worldwide. The Security Council determines if a threat to peace
-                    exists around the world, and it is obligated to settle and find a peaceful solution to the
-                    threat or aggression. Occasionally, the Security Council has the authority to impose sanctions
-                    and use force to find or keep international peace and/or security. It is composed of permanent
-                    and non-permanent States that are all obligated to vote once. The permanent members of the
-                    Security Council are China, France, Russia, the United Kingdom, and the United States.</p>
-                <p class="mb-2" style="font-size: 23px; text-align: center;"><b>LEVEL: HIGH SCHOOL</b></p>
-                <p class="pt-5 mb-5">
+                    exists around the world, and it is obligated to settle and find a peaceful solution to the threat or
+                    aggression. Occasionally, the Security Council has the authority to impose sanctions and use force
+                    to find or keep international peace and/or security. It is composed of permanent and non-permanent
+                    States that are all obligated to vote once. The permanent members of the Security Council are China,
+                    France, Russia, the United Kingdom, and the United States.</p>
+                <p class="mb-2 text-center" style="font-size: 23px; background-color: #741b47; color: white;"><b>PURPLE
+                        DIVISION (10TH - COLLEGE)</b></p>
+                <p class="pt-5 mb-5 text-center">
                     <a href="https://www.un.org/securitycouncil/" class="btn btn-primary p-3">Visit Website</a>
                     <a href="#" class="btn btn-primary p-3">Background Paper</a>
                 </p>

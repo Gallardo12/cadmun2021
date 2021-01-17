@@ -69,6 +69,26 @@ Route::get('/un-peacekeeping-program', function () {
     return view('committees.unpp');
 });
 
+Route::get('/secretariat', function () {
+    return view('secretariat');
+});
+
+Route::get('/speaker', function () {
+    return view('speaker');
+});
+
+Route::get('/blog', function () {
+    return view('blog');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+Route::get('/registration', function () {
+    return view('registration');
+});
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

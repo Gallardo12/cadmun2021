@@ -1,8 +1,8 @@
-<head>
-    <title>CADMUN 2021 - Futuristic World League</title>
-</head>
+@extends('layouts.app')
 
-@extends('layouts.committee')
+@section('page-name')
+FWL
+@endsection
 
 @section('content')
 <!--START INNER PAGE-->
@@ -33,7 +33,7 @@
             <div class="col-md-8">
                 <h2 class="mb-5" style="text-align: center;">Topic: Regulation of Interplanetary Migration Policies
                     Regarding Earth’s Crisis</h2>
-                <div class="row">
+                <div class="d-flex justify-content-center">
                     <div style="text-align: left;">
                         <h4 class="d-flex" style="text-align: left;vertical-align: middle;">
                             <span class="text-primary mx-3" style="font-size: 48px;">
@@ -44,19 +44,20 @@
                         </h4>
                     </div>
                 </div>
-                <p class="mb-5" style="margin-top: -10px;">
-                    <a href="mailto:fwl@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
-                </p>
+                <div class="d-flex justify-content-center">
+                    <p class="mb-5" style="margin-top: -10px;">
+                        <a href="mailto:fwl@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
+                    </p>
+                </div>
                 <p class="mb-3" style="text-align: justify; font-size: 20px;">CADMUN 2021 presents a new fantasy
-                    committee, The Futuristic League! This committee will be established years in the future,
-                    setting a possible scenario of the Earth with an amazing dynamic for the debate presented in a
-                    different time! Imagine the possibilities, new and reorganized international relations, advanced
-                    technology on the planet, future space colonization, and many more! Be part of this new
-                    adventure by directioning humanity into the unknown future, you as a delegate can make the
-                    change!</p>
-                <p class="mb-2" style="font-size: 23px; text-align: center;"><b>LEVEL: MIDDLE SCHOOL & 10TH
-                        GRADERS</b></p>
-                <p class="pt-5 mb-5">
+                    committee, The Futuristic League! This committee will be established years in the future, setting a
+                    possible scenario of the Earth with an amazing dynamic for the debate presented in a different time!
+                    Imagine the possibilities, new and reorganized international relations, advanced technology on the
+                    planet, future space colonization, and many more! Be part of this new adventure by directioning
+                    humanity into the unknown future, you as a delegate can make the change!</p>
+                <p class="mb-2 text-center" style="font-size: 23px; background-color: #ff0000; color: white;"><b>RED
+                        DIVISION (7TH - 10TH)</b></p>
+                <p class="pt-5 mb-5 text-center">
                     <!--<a href="https://www.un.org/en/ga/" class="btn btn-primary p-3">Visit Website</a>-->
                     <a href="#" class="btn btn-primary p-3">Background Paper</a>
                 </p>

@@ -1,8 +1,8 @@
-<head>
-    <title>CADMUN 2021 - World Health Orgnization</title>
-</head>
+@extends('layouts.app')
 
-@extends('layouts.committee')
+@section('page-name')
+WHO
+@endsection
 
 @section('content')
 <!--START INNER PAGE-->
@@ -31,33 +31,36 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-md-8">
-                <h2 class="mb-5" style="text-align: center;">Topic: Genetically Modified Organisms and Their Effects
-                    on Health and Security</h2>
-                <div class="row">
+                <h2 class="mb-5" style="text-align: center;">Topic: Genetically Modified Organisms and Their Effects on
+                    Health and Security</h2>
+                <div class="d-flex justify-content-center">
                     <div style="text-align: left;">
                         <h4 class="d-flex" style="text-align: left;vertical-align: middle;">
                             <span class="text-primary mx-3" style="font-size: 48px;">
                                 <ion-icon name="mail-outline"></ion-icon>
                             </span>
-                            <span class="align-self-center pb-3"
-                                style="font-size: 28px;"><u><i>who@cadmun.org</i></u></span>
+                            <span class="align-self-center pb-3" style="font-size: 28px;">
+                                <u><i>who@cadmun.org</i></u>
+                            </span>
                         </h4>
                     </div>
                 </div>
-                <p class="mb-5" style="margin-top: -10px;">
-                    <a href="mailto:who@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
-                </p>
-                <p class="mb-3" style="text-align: justify; font-size: 20px;">The World Health Organization (WHO) is
-                    the committee responsible for international public health. WHO's occupations include pushing for
-                    universal healthcare, monitoring public health risks, coordinating responses to health
-                    emergencies, and promoting human health and well being. It provides technical assistance to
-                    countries, sets international health standards and guidelines, and collects data on global
-                    health issues through the World Health Survey. WHO also assists as a panel for summits and
-                    discussions on health issues. The World Health Report provides expert assessments of global
-                    health topics and health statistics on all nations, this website gives information about
-                    COVID-19.</p>
-                <p class="mb-2" style="font-size: 23px; text-align: center;"><b>LEVEL: MIDDLE SCHOOL</b></p>
-                <p class="pt-5 mb-5">
+                <div class="d-flex justify-content-center">
+                    <p class="mb-5" style="margin-top: -10px;">
+                        <a href="mailto:who@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
+                    </p>
+                </div>
+                <p class="mb-3" style="text-align: justify; font-size: 20px;">The World Health Organization (WHO) is the
+                    committee responsible for international public health. WHO's occupations include pushing for
+                    universal healthcare, monitoring public health risks, coordinating responses to health emergencies,
+                    and promoting human health and well being. It provides technical assistance to countries, sets
+                    international health standards and guidelines, and collects data on global health issues through the
+                    World Health Survey. WHO also assists as a panel for summits and discussions on health issues. The
+                    World Health Report provides expert assessments of global health topics and health statistics on all
+                    nations, this website gives information about COVID-19.</p>
+                <p class="mb-2 text-center" style="font-size: 23px; background-color: #ffff00; color: black;"><b>YELLOW
+                        DIVISION (7TH - 9TH)</b></p>
+                <p class="pt-5 mb-5 text-center">
                     <a href="https://www.who.int/" class="btn btn-primary p-3">Visit Website</a>
                     <a href="#" class="btn btn-primary p-3">Background Paper</a>
                 </p>

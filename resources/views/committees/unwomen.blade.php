@@ -1,8 +1,8 @@
-<head>
-    <title>CADMUN 2021 - UN WOMEN</title>
-</head>
+@extends('layouts.app')
 
-@extends('layouts.committee')
+@section('page-name')
+UN WOMEN
+@endsection
 
 @section('content')
 <!--START INNER PAGE-->
@@ -31,9 +31,9 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-md-8">
-                <h2 class="mb-5" style="text-align: center;">Topic: The Revolutionary Process of Kurdian Women
-                    Against Islamic Terrorism</h2>
-                <div class="row">
+                <h2 class="mb-5" style="text-align: center;">Topic: The Revolutionary Process of Kurdian Women Against
+                    Islamic Terrorism</h2>
+                <div class="d-flex justify-content-center">
                     <div style="text-align: left;">
                         <h4 class="d-flex" style="text-align: left;vertical-align: middle;">
                             <span class="text-primary mx-3" style="font-size: 48px;">
@@ -44,20 +44,22 @@
                         </h4>
                     </div>
                 </div>
-                <p class="mb-5" style="margin-top: -10px;">
-                    <a href="mailto:un.women@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
-                </p>
+                <div class="d-flex justify-content-center">
+                    <p class="mb-5" style="margin-top: -10px;">
+                        <a href="mailto:un.women@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
+                    </p>
+                </div>
                 <p class="mb-3" style="text-align: justify; font-size: 20px;">UN Women is the committee dedicated to
-                    gender equality and the empowerment of women. In 2011, the UN Women committee became
-                    operational. It was established to accelerate progress on meeting gender equality worldwide. Its
-                    main roles are to support inter-governmental organizations in their formulation of management,
-                    global standards, and norms; to help the Member States to reach these standards, being ready to
-                    provide proper technical and financial support to those countries that request it; to produce
-                    effective connections with civil society, and to strengthen the UN system accountable for its
-                    own responsibilities on gender equality, including regular monitoring of system-wide progress.
-                </p>
-                <p class="mb-2" style="font-size: 23px; text-align: center;"><b>LEVEL: MIDDLE SCHOOL</b></p>
-                <p class="pt-5 mb-5">
+                    gender equality and the empowerment of women. In 2011, the UN Women committee became operational. It
+                    was established to accelerate progress on meeting gender equality worldwide. Its main roles are to
+                    support inter-governmental organizations in their formulation of management, global standards, and
+                    norms; to help the Member States to reach these standards, being ready to provide proper technical
+                    and financial support to those countries that request it; to produce effective connections with
+                    civil society, and to strengthen the UN system accountable for its own responsibilities on gender
+                    equality, including regular monitoring of system-wide progress.</p>
+                <p class="mb-2 text-center" style="font-size: 23px; background-color: #ffff00; color: black;"><b>YELLOW
+                        DIVISION (7TH - 9TH)</b></p>
+                <p class="pt-5 mb-5 text-center">
                     <a href="https://www.unwomen.org/en" class="btn btn-primary p-3">Visit Website</a>
                     <a href="#" class="btn btn-primary p-3">Background Paper</a>
                 </p>

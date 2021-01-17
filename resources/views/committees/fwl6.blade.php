@@ -1,8 +1,8 @@
-<head>
-    <title>CADMUN 2021 - Futuristic World League (6th Grade)</title>
-</head>
+@extends('layouts.app')
 
-@extends('layouts.committee')
+@section('page-name')
+FWL (6th Grade)
+@endsection
 
 @section('content')
 <!--START INNER PAGE-->
@@ -26,15 +26,14 @@
         <!--LOGO-->
         <div class="row justify-content-center">
             <div class="col-8 text-center mb-5" style="margin-top: -200px;">
-                <p><img src="images/Comites/12_FWL (6to)/12_WFL(6to).jpg" alt="Logo" class="img-thumbnail w-100">
-                </p>
+                <p><img src="images/Comites/12_FWL (6to)/12_WFL(6to).jpg" alt="Logo" class="img-thumbnail w-100"></p>
             </div>
         </div>
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <h2 class="mb-5" style="text-align: center;">Topic: The Restructuring of International Ideologies
                     Regarding Social Justice</h2>
-                <div class="row">
+                <div class="d-flex justify-content-center">
                     <div style="text-align: left;">
                         <h4 class="d-flex" style="text-align: left;vertical-align: middle;">
                             <span class="text-primary mx-3" style="font-size: 48px;">
@@ -45,18 +44,20 @@
                         </h4>
                     </div>
                 </div>
-                <p class="mb-5" style="margin-top: -10px;">
-                    <a href="mailto:fwl.6to@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
-                </p>
+                <div class="d-flex justify-content-center">
+                    <p class="mb-5" style="margin-top: -10px;">
+                        <a href="mailto:fwl.6to@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
+                    </p>
+                </div>
                 <p class="mb-3" style="text-align: justify; font-size: 20px;">CADMUN 2021 presents a new fantasy
-                    committee, The Futuristic League! This committee will be established years in the future,
-                    setting a possible scenario of the Earth with an amazing dynamic for the debate presented in a
-                    different time! Imagine the possibilities, new and reorganized international relations, advanced
-                    technology on the planet, future space colonization, and many more! Be part of this new
-                    adventure by directioning humanity into the unknown future, you as a delegate can make the
-                    change!</p>
-                <p class="mb-2" style="font-size: 23px; text-align: center;"><b>LEVEL: 6TH GRADERS</b></p>
-                <p class="pt-5 mb-5">
+                    committee, The Futuristic League! This committee will be established years in the future, setting a
+                    possible scenario of the Earth with an amazing dynamic for the debate presented in a different time!
+                    Imagine the possibilities, new and reorganized international relations, advanced technology on the
+                    planet, future space colonization, and many more! Be part of this new adventure by directioning
+                    humanity into the unknown future, you as a delegate can make the change!</p>
+                <p class="mb-2 text-center" style="font-size: 23px; background-color: #dc0e83; color: white;"><b>PINK
+                        DIVISION (6TH)</b></p>
+                <p class="pt-5 mb-5 text-center">
                     <!--<a href="https://www.un.org/en/ga/" class="btn btn-primary p-3">Visit Website</a>-->
                     <a href="#" class="btn btn-primary p-3">Background Paper</a>
                 </p>
