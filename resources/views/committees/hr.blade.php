@@ -1,3 +1,7 @@
+<head>
+    <title>CADMUN 2021 - Human Rights</title>
+</head>
+
 @extends('layouts.committee')
 
 @section('content')

@@ -1,3 +1,7 @@
+<head>
+    <title>CADMUN 2021 - League of the Third Reich</title>
+</head>
+
 @extends('layouts.committee')
 
 @section('content')

@@ -1,3 +1,7 @@
+<head>
+    <title>CADMUN 2021 - International Court of Justice</title>
+</head>
+
 @extends('layouts.committee')
 
 @section('content')

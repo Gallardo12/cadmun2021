@@ -1,3 +1,7 @@
+<head>
+    <title>CADMUN 2021 - Futuristic World League (6th Grade)</title>
+</head>
+
 @extends('layouts.committee')
 
 @section('content')

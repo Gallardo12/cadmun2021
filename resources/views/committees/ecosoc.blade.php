@@ -1,3 +1,7 @@
+<head>
+    <title>CADMUN 2021 - ECOSOC</title>
+</head>
+
 @extends('layouts.committee')
 
 @section('content')

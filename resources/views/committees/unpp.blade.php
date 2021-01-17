@@ -1,3 +1,7 @@
+<head>
+    <title>CADMUN 2021 - UN Peacekeeping Program</title>
+</head>
+
 @extends('layouts.committee')
 
 @section('content')

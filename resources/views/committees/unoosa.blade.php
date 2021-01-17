@@ -1,3 +1,7 @@
+<head>
+    <title>CADMUN 2021 - UNOOSA</title>
+</head>
+
 @extends('layouts.committee')
 
 @section('content')

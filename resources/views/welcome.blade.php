@@ -325,7 +325,7 @@
             <div class="row no-gutters">
                 <!--COMITÉ 1-->
                 <div class="col-md-4 element-animate align-self-center">
-                    <a href="committee-1-ga.html" class="link-thumbnail">
+                    <a href="/general-assembly" class="link-thumbnail">
                         <h3>General Assembly</h3>
                         <span class="ion-plus icon"></span>
                         <img src="images/Comites/1_GA/1.2_GA.png" alt="GA" class="img-fluid">
@@ -333,7 +333,7 @@
                 </div>
                 <!--COMITÉ 2-->
                 <div class="col-md-4 element-animate align-self-center">
-                    <a href="committee-2-sc.html" class="link-thumbnail">
+                    <a href="/security-council" class="link-thumbnail">
                         <h3>Security Council</h3>
                         <span class="ion-plus icon"></span>
                         <img src="images/Comites/2_SC/2_SC.png" alt="SC" class="img-fluid">
@@ -341,7 +341,7 @@
                 </div>
                 <!--COMITÉ 3-->
                 <div class="col-md-4 element-animate align-self-center">
-                    <a href="committee-3-who.html" class="link-thumbnail">
+                    <a href="/world-heath-organization" class="link-thumbnail">
                         <h3>World Health Organization</h3>
                         <span class="ion-plus icon"></span>
                         <img src="images/Comites/3_WHO/3.2_WHO.png" alt="WHO" class="img-fluid">
@@ -349,7 +349,7 @@
                 </div>
                 <!--COMITÉ 4-->
                 <div class="col-md-4 element-animate align-self-center">
-                    <a href="committee-4-ecosoc.html" class="link-thumbnail">
+                    <a href="/ecosoc" class="link-thumbnail">
                         <h3>United Nations Economic and Social Council</h3>
                         <span class="ion-plus icon"></span>
                         <img src="images/Comites/4_ECOSOC/4_ECOSOC.jpg" alt="ECOSOC" class="img-fluid">
@@ -357,7 +357,7 @@
                 </div>
                 <!--COMITÉ 5-->
                 <div class="col-md-4 element-animate align-self-center">
-                    <a href="committee-5-unwomen.html" class="link-thumbnail">
+                    <a href="un-women" class="link-thumbnail">
                         <h3>UN Women</h3>
                         <span class="ion-plus icon"></span>
                         <img src="images/Comites/5_UN Women/5_UNWomen.jpg" alt="UN WOMEN" class="img-fluid">
@@ -365,7 +365,7 @@
                 </div>
                 <!--COMITÉ 6-->
                 <div class="col-md-4 element-animate align-self-center">
-                    <a href="committee-6-iaea.html" class="link-thumbnail">
+                    <a href="/iaea" class="link-thumbnail">
                         <h3>International Atomic Energy Agency</h3>
                         <span class="ion-plus icon"></span>
                         <img src="images/Comites/6_IAEA/6_IAEA.jpg" alt="IAEA" class="img-fluid">
@@ -373,7 +373,7 @@
                 </div>
                 <!--COMITÉ 7-->
                 <div class="col-md-4 element-animate align-self-center">
-                    <a href="committee-7-unoosa.html" class="link-thumbnail">
+                    <a href="/unoosa" class="link-thumbnail">
                         <h3>United Nations Office for Outer Space Affairs</h3>
                         <span class="ion-plus icon"></span>
                         <img src="images/Comites/7_UNOOSA/7.2_UNOOSA.png" alt="UNOOSA" class="img-fluid">
@@ -381,7 +381,7 @@
                 </div>
                 <!--COMITÉ 8-->
                 <div class="col-md-4 element-animate align-self-center">
-                    <a href="committee-8-hr.html" class="link-thumbnail">
+                    <a href="/human-rights" class="link-thumbnail">
                         <h3>United Nations Human Rights Council</h3>
                         <span class="ion-plus icon"></span>
                         <img src="images/Comites/8_HR/8.2_HR.png" alt="HR" class="img-fluid">
@@ -389,7 +389,7 @@
                 </div>
                 <!--COMITÉ 9-->
                 <div class="col-md-4 element-animate align-self-center">
-                    <a href="committee-9-icj.html" class="link-thumbnail">
+                    <a href="/international-court-justice" class="link-thumbnail">
                         <h3>International Court of Justice</h3>
                         <span class="ion-plus icon"></span>
                         <img src="images/Comites/9_ICJ/9_ICJ.png" alt="ICJ" class="img-fluid">
@@ -397,7 +397,7 @@
                 </div>
                 <!--COMITÉ 10-->
                 <div class="col-md-4 element-animate align-self-center">
-                    <a href="committee-10-ltr.html" class="link-thumbnail">
+                    <a href="/league-third-reich" class="link-thumbnail">
                         <h3>League of Third Reich</h3>
                         <span class="ion-plus icon"></span>
                         <img src="images/Comites/10_LTR/10.2_LTR.png" alt="LTR" class="img-fluid">
@@ -405,7 +405,7 @@
                 </div>
                 <!--COMITÉ 11-->
                 <div class="col-md-4 element-animate align-self-center">
-                    <a href="committee-11-fwl.html" class="link-thumbnail">
+                    <a href="/futuristic-world-league-6to" class="link-thumbnail">
                         <h3>Futuristic World League</h3>
                         <span class="ion-plus icon"></span>
                         <img src="images/Comites/11_FWL/11.3_FWL.jpg" alt="FWL" class="img-fluid">
@@ -413,7 +413,7 @@
                 </div>
                 <!--COMITÉ 12-->
                 <div class="col-md-4 element-animate align-self-center">
-                    <a href="committee-12-fwl6to.html" class="link-thumbnail">
+                    <a href="/futuristic-world-league-6to" class="link-thumbnail">
                         <h3>Futuristic World League (6th Graders)</h3>
                         <span class="ion-plus icon"></span>
                         <img src="images/Comites/12_FWL (6to)/12_WFL(6to).jpg" alt="FWL(6TO)" class="img-fluid">
@@ -421,7 +421,7 @@
                 </div>
                 <!--COMITÉ 13-->
                 <div class="col-md-4 element-animate align-self-center">
-                    <a href="committee-13-unpp.html" class="link-thumbnail">
+                    <a href="/un-peacekeeping-program" class="link-thumbnail">
                         <h3>United Nations Peacekeeping Program</h3>
                         <span class="ion-plus icon"></span>
                         <img src="images/Comites/13_UNPP/13.3_UNPP.png" alt="UNPP" class="img-fluid">

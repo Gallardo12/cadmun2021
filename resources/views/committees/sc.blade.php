@@ -1,3 +1,7 @@
+<head>
+    <title>CADMUN 2021 - Security Council</title>
+</head>
+
 @extends('layouts.committee')
 
 @section('content')
