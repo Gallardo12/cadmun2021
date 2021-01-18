@@ -4,6 +4,38 @@
 LTR
 @endsection
 
+@section('description')
+CADMUN 2021 presents a new fantasy
+committee, The League of Third Reich! This committee was established in 1945, in an alternate ending
+of WWII in which Hitler won the war. What would have happened if the Nazi Germany was successful
+during this belic conflict? Would the global regime of Nazis stay for a long time? The global powers
+would have remained crossed armed expecting nothing? The new global order in this alternative world
+is in your hands, you can make the difference being contrary of Nazi Germany, or support Hitler’s
+ideals by selecting an Axis power nation. If you as a delegate want to be part of this new
+committee, join the League of Third Reich, play as a delegate set in 1945, and be part of this new
+and interactive experience!
+@endsection
+
+@section('image-url')
+images/Comites/10_LTR/10_LTR.jpg
+@endsection
+
+@section('page-url')
+https://www.cadmun.org/league-third-reich
+@endsection
+
+@section('summary')
+CADMUN 2021 presents a new fantasy
+committee, The League of Third Reich! This committee was established in 1945, in an alternate ending
+of WWII in which Hitler won the war. What would have happened if the Nazi Germany was successful
+during this belic conflict? Would the global regime of Nazis stay for a long time? The global powers
+would have remained crossed armed expecting nothing? The new global order in this alternative world
+is in your hands, you can make the difference being contrary of Nazi Germany, or support Hitler’s
+ideals by selecting an Axis power nation. If you as a delegate want to be part of this new
+committee, join the League of Third Reich, play as a delegate set in 1945, and be part of this new
+and interactive experience!
+@endsection
+
 @section('content')
 <!--START INNER PAGE-->
 <div class="inner-page">

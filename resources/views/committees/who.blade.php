@@ -4,6 +4,36 @@
 WHO
 @endsection
 
+@section('description')
+The World Health Organization (WHO) is the
+committee responsible for international public health. WHO's occupations include pushing for
+universal healthcare, monitoring public health risks, coordinating responses to health emergencies,
+and promoting human health and well being. It provides technical assistance to countries, sets
+international health standards and guidelines, and collects data on global health issues through the
+World Health Survey. WHO also assists as a panel for summits and discussions on health issues. The
+World Health Report provides expert assessments of global health topics and health statistics on all
+nations, this website gives information about COVID-19
+@endsection
+
+@section('image-url')
+images/Comites/3_WHO/3_WHO.png
+@endsection
+
+@section('page-url')
+https://www.cadmun.org/world-health-organization
+@endsection
+
+@section('summary')
+The World Health Organization (WHO) is the
+committee responsible for international public health. WHO's occupations include pushing for
+universal healthcare, monitoring public health risks, coordinating responses to health emergencies,
+and promoting human health and well being. It provides technical assistance to countries, sets
+international health standards and guidelines, and collects data on global health issues through the
+World Health Survey. WHO also assists as a panel for summits and discussions on health issues. The
+World Health Report provides expert assessments of global health topics and health statistics on all
+nations, this website gives information about COVID-19
+@endsection
+
 @section('content')
 <!--START INNER PAGE-->
 <div class="inner-page">

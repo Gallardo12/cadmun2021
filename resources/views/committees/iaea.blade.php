@@ -4,6 +4,30 @@
 IAEA
 @endsection
 
+@section('description')
+The International Atomic Energy Agency
+focuses on the safe, peaceful and secure management and use of nuclear science, energy and
+technology. It was established in 1957 and even though it is an independent organization it reports
+to the General Assembly and the Security Council. It consists of three main pillars; Safety and
+Security, Science and Technology, and Safeguards and Verification
+@endsection
+
+@section('image-url')
+images/Comites/6_IAEA/6.1_IAEA.jpg
+@endsection
+
+@section('page-url')
+https://www.cadmun.org/iaea
+@endsection
+
+@section('summary')
+The International Atomic Energy Agency
+focuses on the safe, peaceful and secure management and use of nuclear science, energy and
+technology. It was established in 1957 and even though it is an independent organization it reports
+to the General Assembly and the Security Council. It consists of three main pillars; Safety and
+Security, Science and Technology, and Safeguards and Verification
+@endsection
+
 @section('content')
 <!--START INNER PAGE-->
 <div class="inner-page">

@@ -4,6 +4,34 @@
 ICJ
 @endsection
 
+@section('description')
+The International Court of Justice is the
+most relevant magisterial committee of the United Nations. It started working in April 1946. Its
+main objective is to solve international legal controversies that the States submit with
+international law and to emit opinions about legal matters by specialized organs and agencies that
+the United Nations authorize. The General Assembly and the Security Council elect 15 judges (but in
+this case there will be more) who will compose the court. The official languages are French and
+English (in this case only English)
+@endsection
+
+@section('image-url')
+images/Comites/9_ICJ/9_2_ICJ.png
+@endsection
+
+@section('page-url')
+https://www.cadmun.org/international-court-justice
+@endsection
+
+@section('summary')
+The International Court of Justice is the
+most relevant magisterial committee of the United Nations. It started working in April 1946. Its
+main objective is to solve international legal controversies that the States submit with
+international law and to emit opinions about legal matters by specialized organs and agencies that
+the United Nations authorize. The General Assembly and the Security Council elect 15 judges (but in
+this case there will be more) who will compose the court. The official languages are French and
+English (in this case only English)
+@endsection
+
 @section('content')
 <!--START INNER PAGE-->
 <div class="inner-page">

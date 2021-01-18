@@ -4,6 +4,30 @@
 Secretariat
 @endsection
 
+@section('description')
+It is worth mentioning that this event is planned and executed by ASD students, under the direction and supervision of
+their advisors. The CADMUN secretariat is made up of 11 dedicated students, each one has their roles to make this event
+a reality.
+@endsection
+
+@section('image-url')
+images/Galeria/secretariat-img-2.jpg
+@endsection
+
+@section('page-url')
+https://www.cadmun.org/secretariat
+@endsection
+
+@section('summary')
+It is worth mentioning that this event is planned and executed by ASD students, under the direction and supervision of
+their advisors. The CADMUN secretariat is made up of 11 dedicated students, each one has their roles to make this event
+a reality.
+@endsection
+
+@section('alt-image')
+Secretariat background
+@endsection
+
 @section('content')
 <!--START INNER-->
 <div class="inner-page">

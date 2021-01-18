@@ -4,6 +4,36 @@
 UNOOSA
 @endsection
 
+@section('description')
+The United Nations Office for Outer Space
+Affairs was formed in 1958. It was created as an assistant to the United Nations Committee on the
+Peaceful Uses of Outer Space. Its objective is to promote the sustainable and peaceful use of space
+science and exploration. UNOOSA is responsible for assisting any regulatory and legal frameworks
+regarding space activity that the United Nations Member States may establish. It keeps record of the
+objects launched into space and advises space law to NGOs and governments. It helps developing
+countries to have access to the use of space science encouraging a sustainable socioeconomic
+development
+@endsection
+
+@section('image-url')
+images/Comites/7_UNOOSA/7.3_UNOOSA.svg.png
+@endsection
+
+@section('page-url')
+https://www.cadmun.org/unoosa
+@endsection
+
+@section('summary')
+The United Nations Office for Outer Space
+Affairs was formed in 1958. It was created as an assistant to the United Nations Committee on the
+Peaceful Uses of Outer Space. Its objective is to promote the sustainable and peaceful use of space
+science and exploration. UNOOSA is responsible for assisting any regulatory and legal frameworks
+regarding space activity that the United Nations Member States may establish. It keeps record of the
+objects launched into space and advises space law to NGOs and governments. It helps developing
+countries to have access to the use of space science encouraging a sustainable socioeconomic
+development
+@endsection
+
 @section('content')
 <!--START INNER PAGE-->
 <div class="inner-page">

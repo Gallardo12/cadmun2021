@@ -4,6 +4,36 @@
 UN WOMEN
 @endsection
 
+@section('description')
+UN Women is the committee dedicated to
+gender equality and the empowerment of women. In 2011, the UN Women committee became operational. It
+was established to accelerate progress on meeting gender equality worldwide. Its main roles are to
+support inter-governmental organizations in their formulation of management, global standards, and
+norms; to help the Member States to reach these standards, being ready to provide proper technical
+and financial support to those countries that request it; to produce effective connections with
+civil society, and to strengthen the UN system accountable for its own responsibilities on gender
+equality, including regular monitoring of system-wide progress
+@endsection
+
+@section('image-url')
+images/Comites/5_UN Women/5_UNWomen.jpg
+@endsection
+
+@section('page-url')
+https://www.cadmun.org/un-women
+@endsection
+
+@section('summary')
+UN Women is the committee dedicated to
+gender equality and the empowerment of women. In 2011, the UN Women committee became operational. It
+was established to accelerate progress on meeting gender equality worldwide. Its main roles are to
+support inter-governmental organizations in their formulation of management, global standards, and
+norms; to help the Member States to reach these standards, being ready to provide proper technical
+and financial support to those countries that request it; to produce effective connections with
+civil society, and to strengthen the UN system accountable for its own responsibilities on gender
+equality, including regular monitoring of system-wide progress
+@endsection
+
 @section('content')
 <!--START INNER PAGE-->
 <div class="inner-page">

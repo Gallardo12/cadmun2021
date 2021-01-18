@@ -4,6 +4,36 @@
 ECOSOC
 @endsection
 
+@section('description')
+Established in 1945, ECOSOC is one of the
+main organs of the United Nations. It concentrates in the three dimensions of sustainability; the
+economic, social and environmental. The Economic and Social Council works with coordinating goals
+agreed internationally. It organizes the work of 14 specialized agencies of the United Nations.
+Every year in July ECOSOC holds a four-week session in Geneva or New York with crucial economic
+committees like the International Monetary Fund and the World Bank, they discuss goals and
+challenges like the 2030 Agenda for Sustainable Development. This organ encourages innovation,
+debate, and always moving forward
+@endsection
+
+@section('image-url')
+images/Comites/4_ECOSOC/4.1_ECOSOC.jpg
+@endsection
+
+@section('page-url')
+https://www.cadmun.org/ecosoc
+@endsection
+
+@section('summary')
+Established in 1945, ECOSOC is one of the
+main organs of the United Nations. It concentrates in the three dimensions of sustainability; the
+economic, social and environmental. The Economic and Social Council works with coordinating goals
+agreed internationally. It organizes the work of 14 specialized agencies of the United Nations.
+Every year in July ECOSOC holds a four-week session in Geneva or New York with crucial economic
+committees like the International Monetary Fund and the World Bank, they discuss goals and
+challenges like the 2030 Agenda for Sustainable Development. This organ encourages innovation,
+debate, and always moving forward
+@endsection
+
 @section('content')
 <!--START INNER PAGE-->
 <div class="inner-page">

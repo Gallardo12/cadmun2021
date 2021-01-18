@@ -4,6 +4,36 @@
 GA
 @endsection
 
+@section('description')
+Founded in 1945, the United Nations
+General Assembly is the main organ of the UN. It is considered the democratic heart of the United
+Nations, it serves as the main deliberative, policymaking, and representative body. The General
+Assembly has debates of peace, security, development, human rights, among others. This committee has
+huge relevance and influence, since key decisions that affect all 193 Member States are made. The
+General Assembly has the authority to approve or not a resolution made by another committee. It
+requires the best and most prepared delegates that will be able to analyze solutions, in order to
+choose the best one
+@endsection
+
+@section('image-url')
+images/Comites/1_GA/1_GA.png
+@endsection
+
+@section('page-url')
+https://www.cadmun.org/general-assembly
+@endsection
+
+@section('summary')
+Founded in 1945, the United Nations
+General Assembly is the main organ of the UN. It is considered the democratic heart of the United
+Nations, it serves as the main deliberative, policymaking, and representative body. The General
+Assembly has debates of peace, security, development, human rights, among others. This committee has
+huge relevance and influence, since key decisions that affect all 193 Member States are made. The
+General Assembly has the authority to approve or not a resolution made by another committee. It
+requires the best and most prepared delegates that will be able to analyze solutions, in order to
+choose the best one
+@endsection
+
 @section('content')
 <!--START INNER PAGE-->
 <div class="inner-page">

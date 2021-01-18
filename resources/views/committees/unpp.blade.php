@@ -4,6 +4,36 @@
 UNPP
 @endsection
 
+@section('description')
+UN Peacekeeping helps countries navigate
+the difficult path from conflict to peace. It has unique strengths, including legitimacy, burden
+sharing, and an ability to deploy troops and police worldwide, integrating them with civilian
+peacekeepers to address a range of mandates set by the UN Security Council and General Assembly. Its
+main roles are to protect civilians; prevent conflicts; promote human rights and women peace and
+security; build Rule of Law and Security Institutions; advance political solutions to conflict, and
+deliver operational support. The ultimate objective of this committee is to create lasting peaceful
+relationships between nations
+@endsection
+
+@section('image-url')
+images/Comites/13_UNPP/13_UNPP.png
+@endsection
+
+@section('page-url')
+https://www.cadmun.org/un-peacekeeping-program
+@endsection
+
+@section('summary')
+UN Peacekeeping helps countries navigate
+the difficult path from conflict to peace. It has unique strengths, including legitimacy, burden
+sharing, and an ability to deploy troops and police worldwide, integrating them with civilian
+peacekeepers to address a range of mandates set by the UN Security Council and General Assembly. Its
+main roles are to protect civilians; prevent conflicts; promote human rights and women peace and
+security; build Rule of Law and Security Institutions; advance political solutions to conflict, and
+deliver operational support. The ultimate objective of this committee is to create lasting peaceful
+relationships between nations
+@endsection
+
 @section('content')
 <!--START INNER PAGE-->
 <div class="inner-page">

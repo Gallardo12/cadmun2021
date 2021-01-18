@@ -4,6 +4,32 @@
 HR
 @endsection
 
+@section('description')
+The United Nations Human Rights Council is
+an intergovernmental United Nations body founded in 2006 (replacing the UN Commission on Human
+Rights (UNCHR) founded in 1946). It focuses on the promotions and protection of all human rights
+around the world. It meets yearly in Geneva, Switzerland to discuss the Human Rights issues that
+require a solution. The Human Rights Council has 47 available seats (but in this case there will be
+less) that are distributed among the continents
+@endsection
+
+@section('image-url')
+images/Comites/8_HR/8.3_HR.jpg
+@endsection
+
+@section('page-url')
+https://www.cadmun.org/human-rights
+@endsection
+
+@section('summary')
+The United Nations Human Rights Council is
+an intergovernmental United Nations body founded in 2006 (replacing the UN Commission on Human
+Rights (UNCHR) founded in 1946). It focuses on the promotions and protection of all human rights
+around the world. It meets yearly in Geneva, Switzerland to discuss the Human Rights issues that
+require a solution. The Human Rights Council has 47 available seats (but in this case there will be
+less) that are distributed among the continents
+@endsection
+
 @section('content')
 <!--START INNER PAGE-->
 <div class="inner-page">

@@ -4,6 +4,36 @@
 SC
 @endsection
 
+@section('description')
+The United Nations Security Council is one
+of the principal organs of the United Nations. It was founded in 1945 with the objective of
+maintaining peace and security worldwide. The Security Council determines if a threat to peace
+exists around the world, and it is obligated to settle and find a peaceful solution to the threat or
+aggression. Occasionally, the Security Council has the authority to impose sanctions and use force
+to find or keep international peace and/or security. It is composed of permanent and non-permanent
+States that are all obligated to vote once. The permanent members of the Security Council are China,
+France, Russia, the United Kingdom, and the United States
+@endsection
+
+@section('image-url')
+images/Comites/2_SC/2.1_SC.png
+@endsection
+
+@section('page-url')
+https://www.cadmun.org/security-council
+@endsection
+
+@section('summary')
+The United Nations Security Council is one
+of the principal organs of the United Nations. It was founded in 1945 with the objective of
+maintaining peace and security worldwide. The Security Council determines if a threat to peace
+exists around the world, and it is obligated to settle and find a peaceful solution to the threat or
+aggression. Occasionally, the Security Council has the authority to impose sanctions and use force
+to find or keep international peace and/or security. It is composed of permanent and non-permanent
+States that are all obligated to vote once. The permanent members of the Security Council are China,
+France, Russia, the United Kingdom, and the United States
+@endsection
+
 @section('content')
 <!--START INNER PAGE-->
 <div class="inner-page">

@@ -4,6 +4,32 @@
 FWL
 @endsection
 
+@section('description')
+CADMUN 2021 presents a new fantasy
+committee, The Futuristic League! This committee will be established years in the future, setting a
+possible scenario of the Earth with an amazing dynamic for the debate presented in a different time!
+Imagine the possibilities, new and reorganized international relations, advanced technology on the
+planet, future space colonization, and many more! Be part of this new adventure by directioning
+humanity into the unknown future, you as a delegate can make the change!
+@endsection
+
+@section('image-url')
+images/Comites/11_FWL/11_FWL.png
+@endsection
+
+@section('page-url')
+https://www.cadmun.org/futuristic-world-league
+@endsection
+
+@section('summary')
+CADMUN 2021 presents a new fantasy
+committee, The Futuristic League! This committee will be established years in the future, setting a
+possible scenario of the Earth with an amazing dynamic for the debate presented in a different time!
+Imagine the possibilities, new and reorganized international relations, advanced technology on the
+planet, future space colonization, and many more! Be part of this new adventure by directioning
+humanity into the unknown future, you as a delegate can make the change!
+@endsection
+
 @section('content')
 <!--START INNER PAGE-->
 <div class="inner-page">

@@ -6,6 +6,16 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <!--  Essential META Tags -->
+    <meta property="og:title" content="{{ config('app.name', 'Laravel') }} - @yield('page-name')">
+    <meta property="og:description" content="@yield('description')">
+    <meta property="og:image" content="@yield('image-url')">
+    <meta property="og:url" content="@yield('page-url')">
+    <meta name="twitter:card" content="@yield('summary')">
+    <!--  Non-Essential, But Recommended -->
+    <meta property="og:site_name" content="{{ config('app.name', 'Laravel') }} - @yield('page-name')">
+    <meta name="twitter:image:alt" content="@yield('page-name') - Background">
+
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Oxygen:400,700" rel="stylesheet">
 
     <link rel="stylesheet" href="css/animate.css">
@@ -202,6 +212,20 @@
 
     <script src="js/main.js"></script>
     <script src="https://unpkg.com/ionicons@5.2.3/dist/ionicons.js"></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HVL66LGZE1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-HVL66LGZE1');
+
+    </script>
 </body>
 
 </html>

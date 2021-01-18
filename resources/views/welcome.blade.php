@@ -4,6 +4,22 @@
 Home
 @endsection
 
+@section('description')
+CADMUN is the most important event of the American School of Durango. CADMUN gives students the opportunity to develop skills such as debating, public speaking, team building and critical thinking. Its main goal is to create respectful awareness for different ways of thinking that can be found all over the world.
+@endsection
+
+@section('image-url')
+images/Galeria/SLIDE_1.jpg
+@endsection
+
+@section('page-url')
+https://www.cadmun.org/
+@endsection
+
+@section('summary')
+CADMUN is the most important event of the American School of Durango. CADMUN gives students the opportunity to develop skills such as debating, public speaking, team building and critical thinking. Its main goal is to create respectful awareness for different ways of thinking that can be found all over the world.
+@endsection
+
 @section('content')
 <!--START SLIDER-->
 <section class="home-slider owl-carousel">
