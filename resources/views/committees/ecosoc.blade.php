@@ -33,15 +33,12 @@ ECOSOC
             <div class="col-md-8">
                 <h2 class="mb-5" style="text-align: center;">Topic: Open Agenda Regarding the Achievement of SDGs</h2>
                 <div class="d-flex justify-content-center">
-                    <div style="text-align: left;">
-                        <h4 class="d-flex" style="text-align: left;vertical-align: middle;">
-                            <span class="text-primary mx-3" style="font-size: 48px;">
-                                <ion-icon name="mail-outline"></ion-icon>
-                            </span>
-                            <span class="align-self-center pb-3"
-                                style="font-size: 28px;"><u><i>ecosoc@cadmun.org</i></u></span>
-                        </h4>
-                    </div>
+                    <h4 style="text-align: center;">
+                        <span class="text-primary mx-3" style="font-size: 48px;">
+                            <ion-icon name="mail-outline"></ion-icon>
+                        </span><br>
+                        ecosoc@cadmun.org
+                    </h4>
                 </div>
                 <div class="d-flex justify-content-center">
                     <p class="mb-5" style="margin-top: -10px;">
@@ -83,7 +80,7 @@ ECOSOC
             <!--NAME 1-->
             <div class="col-6 mb-5">
                 <div class="block-41">
-                    <h4 class="block-41-heading mb-3 text-center" style="font-size: 55px;">Director</h4>
+                    <h4 class="block-41-heading mb-3 text-center" style="font-size: 40px;">Director</h4>
                     <div class="block-41-text text-center" style="font-size: 40px;">
                         <p>André Muñoz</p>
                         <a href="https://www.facebook.com/profile.php?id=100015012965115" class="p-2 text-primary"><span
@@ -100,7 +97,7 @@ ECOSOC
             <!--NAME 2-->
             <div class="col-6 mb-5">
                 <div class="block-41">
-                    <h4 class="block-41-heading mb-3 text-center" style="font-size: 55px;">Moderator</h4>
+                    <h4 class="block-41-heading mb-3 text-center" style="font-size: 40px;">Moderator</h4>
                     <div class="block-41-text text-center" style="font-size: 40px;">
                         <p>Adrián Aragón</p>
                         <a href="https://www.instagram.com/adrianaragons/" class="p-2 text-primary"><span

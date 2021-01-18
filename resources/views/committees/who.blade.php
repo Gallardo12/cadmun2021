@@ -34,16 +34,12 @@ WHO
                 <h2 class="mb-5" style="text-align: center;">Topic: Genetically Modified Organisms and Their Effects on
                     Health and Security</h2>
                 <div class="d-flex justify-content-center">
-                    <div style="text-align: left;">
-                        <h4 class="d-flex" style="text-align: left;vertical-align: middle;">
-                            <span class="text-primary mx-3" style="font-size: 48px;">
-                                <ion-icon name="mail-outline"></ion-icon>
-                            </span>
-                            <span class="align-self-center pb-3" style="font-size: 28px;">
-                                <u><i>who@cadmun.org</i></u>
-                            </span>
-                        </h4>
-                    </div>
+                    <h4 style="text-align: center;">
+                        <span class="text-primary mx-3" style="font-size: 48px;">
+                            <ion-icon name="mail-outline"></ion-icon>
+                        </span><br>
+                        who@cadmun.org
+                    </h4>
                 </div>
                 <div class="d-flex justify-content-center">
                     <p class="mb-5" style="margin-top: -10px;">

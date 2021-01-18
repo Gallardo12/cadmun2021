@@ -34,15 +34,12 @@ UN WOMEN
                 <h2 class="mb-5" style="text-align: center;">Topic: The Revolutionary Process of Kurdian Women Against
                     Islamic Terrorism</h2>
                 <div class="d-flex justify-content-center">
-                    <div style="text-align: left;">
-                        <h4 class="d-flex" style="text-align: left;vertical-align: middle;">
-                            <span class="text-primary mx-3" style="font-size: 48px;">
-                                <ion-icon name="mail-outline"></ion-icon>
-                            </span>
-                            <span class="align-self-center pb-3"
-                                style="font-size: 28px;"><u><i>un.women@cadmun.org</i></u></span>
-                        </h4>
-                    </div>
+                    <h4 style="text-align: center;">
+                        <span class="text-primary mx-3" style="font-size: 48px;">
+                            <ion-icon name="mail-outline"></ion-icon>
+                        </span><br>
+                        un.women@cadmun.org
+                    </h4>
                 </div>
                 <div class="d-flex justify-content-center">
                     <p class="mb-5" style="margin-top: -10px;">
@@ -83,7 +80,7 @@ UN WOMEN
             <!--NAME 1-->
             <div class="col-6 mb-5">
                 <div class="block-41">
-                    <h4 class="block-41-heading mb-3 text-center" style="font-size: 55px;">Director</h4>
+                    <h4 class="block-41-heading mb-3 text-center" style="font-size: 40px;">Director</h4>
                     <div class="block-41-text text-center" style="font-size: 40px;">
                         <p>Stephanie Garcia F</p>
                         <a href="https://www.instagram.com/livelife_steph/" class="p-2 text-primary"><span
@@ -97,7 +94,7 @@ UN WOMEN
             <!--NAME 2-->
             <div class="col-6 mb-5">
                 <div class="block-41">
-                    <h4 class="block-41-heading mb-3 text-center" style="font-size: 55px;">Moderator</h4>
+                    <h4 class="block-41-heading mb-3 text-center" style="font-size: 40px;">Moderator</h4>
                     <div class="block-41-text text-center" style="font-size: 40px;">
                         <p>Rebekah Garza</p>
                         <a href="https://www.instagram.com/rebekah_garza21/" class="p-2 text-primary"><span
