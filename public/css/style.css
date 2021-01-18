@@ -412,7 +412,7 @@ h3,
 
 h4,
 .h4 {
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
 h5,
@@ -11014,7 +11014,7 @@ header .search-form .form-control {
 
 @media (max-width: 991.98px) {
     .slider-item .slider-text h1 {
-        font-size: 40px;
+        font-size: 35px;
     }
 }
 
