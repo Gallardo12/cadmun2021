@@ -35,8 +35,8 @@ UNPP
                 <h2 class="mb-5" style="text-align: center;">Topic: Intercommunal Violence and Persistent Attacks Across
                     West Africa</h2>
                 <div class="d-flex justify-content-center">
-                    <h4 style="text-align: center;">
-                        <span class="text-primary mx-3" style="font-size: 48px;">
+                    <h4 style="text-align: center; font-size: 20px;">
+                        <span class="text-primary mx-3" style="font-size: 20px;">
                             <ion-icon name="mail-outline"></ion-icon>
                         </span><br>
                         un.peacekeeping.program@cadmun.org
