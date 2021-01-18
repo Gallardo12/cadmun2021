@@ -39,7 +39,7 @@ UNPP
                         <span class="text-primary mx-3" style="font-size: 48px;">
                             <ion-icon name="mail-outline"></ion-icon>
                         </span><br>
-                        un.peacekeeping.program@cadmun.org
+                        peace.program@cadmun.org
                     </h4>
                 </div>
                 <div class="d-flex justify-content-center">
