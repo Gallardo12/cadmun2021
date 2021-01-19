@@ -7,13 +7,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!--  Essential META Tags -->
-    <meta property="og:title" content="{{ config('app.name', 'Laravel') }} - @yield('page-name')">
+    <meta property="og:title"
+        content="{{ config('app.name', 'Laravel') }} - @yield('page-name')">
     <meta property="og:description" content="@yield('description')">
     <meta property="og:image" content="@yield('image-url')">
     <meta property="og:url" content="@yield('page-url')">
     <meta name="twitter:card" content="@yield('summary')">
     <!--  Non-Essential, But Recommended -->
-    <meta property="og:site_name" content="{{ config('app.name', 'Laravel') }} - @yield('page-name')">
+    <meta property="og:site_name"
+        content="{{ config('app.name', 'Laravel') }} - @yield('page-name')">
     <meta name="twitter:image:alt" content="@yield('page-name') - Background">
 
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Oxygen:400,700" rel="stylesheet">
@@ -55,8 +57,8 @@
                             <a class="nav-link" href="/speaker !--">Speaker</a>
                         </li-->
                         <li class="nav-item dropdown">
-                            <a class="nav-link @yield('page-active3') dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown"
-                                aria-haspopup="true" aria-expanded="false">Committees</a>
+                            <a class="nav-link @yield('page-active3') dropdown-toggle" href="#" id="dropdown04"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Committees</a>
                             <div class="dropdown-menu" aria-labelledby="dropdown04">
                                 <a class="dropdown-item active" href="/general-assembly">GA</a>
                                 <a class="dropdown-item" href="/security-council">SC</a>
@@ -132,7 +134,7 @@
             <div class="row">
                 <div class="col-md-4 mb-3">
                     <h4>About Us</h4>
-                    <p class="mb-3 text-white">Colegio Americano de Durango Model of United Nations</p>
+                    <p class="mb-3 text-white">Colegio Americano de Durango Model United Nations</p>
                     <ul class="list-unstyled footer-link d-flex footer-social">
                         <li><a href="https://www.facebook.com/cadmun.asd" class="p-2 text-white"><span
                                     class="fa fa-facebook"></span></a></li>
@@ -152,7 +154,8 @@
                         <li class="d-block">
                             <span class="d-block text-white">Address:</span>
                             <span class="text-white"> Av. Tec Milenio #201, El Nayar, 34194, Victoria de Durango,
-                                Durango, México</span></li>
+                                Durango,
+                                México</span></li>
                         <li class="d-block">
                             <span class="d-block text-white">Telephone:</span>
                             <span class="d-block text-white">+52 618 308 5518</span>
@@ -170,10 +173,8 @@
                 <div class="col-md-3 mb-3">
                     <h4>Quick Links</h4>
                     <ul class="list-unstyled footer-link">
-                        <li><a href="#" class="text-white">Secretariat</a></li>
-                        <li><a href="#" class="text-white">Committees</a></li>
-                        <li><a href="#" class="text-white">Blog</a></li>
-                        <li><a href="#" class="text-white">Contact</a></li>
+                        <li><a href="registration.html" class="text-white">Registration</a></li>
+                        <li><a href="secretariado.html" class="text-white">Secretariat</a></li>
                     </ul>
                 </div>
             </div>
