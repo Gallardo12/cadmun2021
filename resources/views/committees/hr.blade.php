@@ -1,5 +1,9 @@
 @extends('layouts.app')
 
+@section('page-active3')
+active
+@endsection
+
 @section('page-name')
 HR
 @endsection

@@ -46,16 +46,16 @@
                 <div class="collapse navbar-collapse" id="navbarsExample05">
                     <ul class="navbar-nav pl-md-5 ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link active" href="/">Home</a>
+                            <a class="nav-link @yield('page-active1')" href="/">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/secretariat">Secretariat</a>
+                            <a class="nav-link @yield('page-active2')" href="/secretariat">Secretariat</a>
                         </li>
                         <!--li class="nav-item">
                             <a class="nav-link" href="/speaker !--">Speaker</a>
                         </li-->
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown"
+                            <a class="nav-link @yield('page-active3') dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown"
                                 aria-haspopup="true" aria-expanded="false">Committees</a>
                             <div class="dropdown-menu" aria-labelledby="dropdown04">
                                 <a class="dropdown-item active" href="/general-assembly">GA</a>
@@ -114,7 +114,7 @@
                             </li-->
                         @endguest
                         <li class="nav-item">
-                            <a class="nav-link" href="/registration">Registration</a>
+                            <a class="nav-link @yield('page-active4')" href="/registration">Registration</a>
                         </li>
                     </ul>
                 </div>

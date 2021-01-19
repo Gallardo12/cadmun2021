@@ -1,5 +1,9 @@
 @extends('layouts.app')
 
+@section('page-active4')
+active
+@endsection
+
 @section('page-name')
 Registration
 @endsection

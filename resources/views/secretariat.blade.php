@@ -1,5 +1,9 @@
 @extends('layouts.app')
 
+@section('page-active2')
+active
+@endsection
+
 @section('page-name')
 Secretariat
 @endsection
