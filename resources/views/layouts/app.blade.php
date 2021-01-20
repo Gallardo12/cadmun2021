@@ -214,6 +214,9 @@
     <script src="js/main.js"></script>
     <script src="https://unpkg.com/ionicons@5.2.3/dist/ionicons.js"></script>
 
+    @yield('javascript')
+    @yield('committee-map')
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-HVL66LGZE1"></script>
     <script>

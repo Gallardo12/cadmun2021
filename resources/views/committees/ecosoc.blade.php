@@ -1,5 +1,36 @@
 @extends('layouts.app')
 
+@section('committee-map')
+<script type="text/javascript">
+    // Create map instance
+    var chart = am4core.create("chartdiv", am4maps.MapChart);
+
+    // Set map definition
+    chart.geodata = am4geodata_worldLow;
+
+    // Set projection
+    chart.projection = new am4maps.projections.Miller();
+
+    // Create map polygon series
+    var polygonSeries = chart.series.push(new am4maps.MapPolygonSeries());
+
+    // Make map load polygon (like country names) data from GeoJSON
+    polygonSeries.useGeodata = true;
+
+    // Configure series
+    var polygonTemplate = polygonSeries.mapPolygons.template;
+    polygonTemplate.tooltipText = "{name}";
+    polygonTemplate.fill = am4core.color("#74B266");
+
+    // Create hover state and set alternative fill color
+    var hs = polygonTemplate.states.create("hover");
+    hs.properties.fill = am4core.color("#367B25");
+
+    polygonSeries.exclude = ["MX"];
+
+</script>
+@endsection
+
 @section('page-active3')
 active
 @endsection
@@ -100,6 +131,16 @@ debate, and always moving forward
 </section>
 <!--END DESCRIPTION-->
 
+<!-- Committee country map -->
+<div class="container">
+    <div class="d-flex justify-content-center">
+        <h1>ECOSOC MAP</h1>
+    </div>
+    <div class="d-flex justify-content-center">
+        <div id="chartdiv"></div>
+    </div>
+</div>
+
 <!--START CHAIRS SECTION-->
 <section class="section">
     <div class="container element-animate">
@@ -152,4 +193,10 @@ debate, and always moving forward
     </div>
 </section>
 <!--END CHAIRS SECTION-->
+@endsection
+
+@section('javascript')
+<script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+<script src="https://cdn.amcharts.com/lib/4/maps.js"></script>
+<script src="https://cdn.amcharts.com/lib/4/geodata/worldLow.js"></script>
 @endsection
