@@ -49,15 +49,14 @@ Registration process
         <div class="row justify-content-center mb-2 ">
             <div class="col-md-8 text-center">
                 <h2 class=" heading mb-4">Registration Process to CADMUN 2021</h2>
-                <p class="mb-5 lead" style="font-size: 25px;">Please follow the instructions below
-                    carefully in order to
-                    register. Registration closes on <u><i>February 17.</i></u></p>
+                <p class="mb-5 lead" style="font-size: 25px;">Please follow the instructions below carefully in order to
+                    register. These instructions only apply to people who are not <a href="http://cadurango.mx/">ASD</a>
+                    students. Registration closes on <u><i>February 17.</i></u></p>
             </div>
         </div>
         <div class="row justify-content-center">
             <div class="col-md-8" style="font-size: 17px;">
-                <p>1) Please email to <a href="mailto:secretariat@cadmun.org"><b>secretariat@cadmun.org</b></a>
-                    the
+                <p>1) Please email to <a href="mailto:secretariat@cadmun.org"><b>secretariat@cadmun.org</b></a> the
                     following information: </p>
                 <div class="container ml-5">
                     <p>a) Delegation (School Name)</p>
@@ -84,10 +83,8 @@ Registration process
                         <p>EXAMPLE: DANIELA RIVAS. AMERICAN SCHOOL OF DURANGO. CADMUN 2021.</p>
                     </div>
                 </div>
-                <p>2) CADMUN 2021 will provide the available countries and committees according to your
-                    selection.</p>
-                <p>3) Please email your selection back within 3 business days of receiving the options
-                    to guarantee
+                <p>2) CADMUN 2021 will provide the available countries and committees according to your selection.</p>
+                <p>3) Please email your selection back within 3 business days of receiving the options to guarantee
                     those selections.</p>
                 <div class="container ml-5">
                     <p>a) Include Delegate’s full names in the provided spreadsheet.</p>

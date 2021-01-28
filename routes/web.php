@@ -33,6 +33,10 @@ Route::get('/ecosoc', function () {
     return view('committees.ecosoc');
 });
 
+Route::get('/hlpf', function () {
+    return view('committees.hlpf');
+});
+
 Route::get('/un-women', function () {
     return view('committees.unwomen');
 });
@@ -87,6 +91,10 @@ Route::get('/contact', function () {
 
 Route::get('/registration', function () {
     return view('registration');
+});
+
+Route::get('/schedule', function () {
+    return view('schedule');
 });
 
 Auth::routes();

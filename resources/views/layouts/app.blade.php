@@ -51,8 +51,9 @@
                             <a class="nav-link @yield('page-active1')" href="/">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link @yield('page-active2')" href="/secretariat">Secretariat</a>
+                            <a class="nav-link @yield('page-active4')" href="/registration">Registration</a>
                         </li>
+                        
                         <!--li class="nav-item">
                             <a class="nav-link" href="/speaker !--">Speaker</a>
                         </li-->
@@ -63,7 +64,7 @@
                                 <a class="dropdown-item active" href="/general-assembly">GA</a>
                                 <a class="dropdown-item" href="/security-council">SC</a>
                                 <a class="dropdown-item" href="/world-health-organization">WHO</a>
-                                <a class="dropdown-item" href="/ecosoc">ECOSOC</a>
+                                <a class="dropdown-item" href="/hlpf">HLPF</a>
                                 <a class="dropdown-item" href="/un-women">UN Women</a>
                                 <a class="dropdown-item" href="/iaea">IAEA</a>
                                 <a class="dropdown-item" href="/unoosa">UNOOSA</a>
@@ -116,7 +117,10 @@
                             </li-->
                         @endguest
                         <li class="nav-item">
-                            <a class="nav-link @yield('page-active4')" href="/registration">Registration</a>
+                            <a class="nav-link @yield('page-active2')" href="/secretariat">Secretariat</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link @yield('page-active4')" href="/schedule">Schedule</a>
                         </li>
                     </ul>
                 </div>
@@ -173,8 +177,9 @@
                 <div class="col-md-3 mb-3">
                     <h4>Quick Links</h4>
                     <ul class="list-unstyled footer-link">
-                        <li><a href="registration.html" class="text-white">Registration</a></li>
-                        <li><a href="secretariado.html" class="text-white">Secretariat</a></li>
+                        <li><a href="/registration" class="text-white">Registration</a></li>
+                        <li><a href="/secretariat" class="text-white">Secretariat</a></li>
+                        <li><a href="/schedule" class="text-white">Schedule</a></li>
                     </ul>
                 </div>
             </div>

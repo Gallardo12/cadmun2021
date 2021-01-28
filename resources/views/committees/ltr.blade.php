@@ -148,7 +148,7 @@ and interactive experience!
             <!--PICTURE 2-->
             <div class="col-5 text-center">
                 <div class="">
-                    <div class="frame"><img src="images/Comites/10_LTR/10_Moderator_JacquelineGonzález.png"
+                    <div class="frame"><img src="images/Comites/10_LTR/10.1_Moderator_JacquelineGonzález.jpg"
                             alt="Moderator" class="w-100 img-thumbnail"></div>
                 </div>
             </div>

@@ -5,7 +5,7 @@ active
 @endsection
 
 @section('page-name')
-ECOSOC
+Higl-Level Political Forum
 @endsection
 
 @section('description')
@@ -45,7 +45,7 @@ debate, and always moving forward
         <div class="container">
             <div class="row slider-text align-items-center justify-content-center">
                 <div class="col-md-8 text-center col-sm-12 element-animate pt-5">
-                    <h1 class="pt-5"><span>UN Economic and Social Council</span></h1>
+                    <h1 class="pt-5"><span>High-Level Political Forum</span></h1>
                     <!--<p class="mb-5 w-75 pl-0" style="font-size: 40px;">GA</p>-->
                 </div>
             </div>
@@ -60,25 +60,27 @@ debate, and always moving forward
         <!--LOGO-->
         <div class="row justify-content-center">
             <div class="col-8 text-center mb-5" style="margin-top: -200px;">
-                <p><img src="images/Comites/4_ECOSOC/4.1_ECOSOC.jpg" alt="Logo" class="img-thumbnail w-100"></p>
+                <p><img src="images/Comites/4_ECOSOC/4.2_HLPF.jpg" alt="Logo" class="img-thumbnail w-100"
+                        style="padding-top: 80px; padding-bottom: 80px;"></p>
             </div>
         </div>
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <h2 class="mb-5" style="text-align: center;">Topic: Open Agenda Regarding the Achievement of SDGs</h2>
-                <div class="d-flex justify-content-center">
-                    <h4 style="text-align: center;">
-                        <span class="text-primary mx-3" style="font-size: 48px;">
-                            <ion-icon name="mail-outline"></ion-icon>
-                        </span><br>
-                        ecosoc@cadmun.org
-                    </h4>
+                <div class="row d-flex justify-content-center">
+                    <div>
+                        <h4 class="d-flex" style="text-align: left;vertical-align: middle;">
+                            <span class="text-primary mx-3" style="font-size: 48px;">
+                                <ion-icon name="mail-outline"></ion-icon>
+                            </span>
+                            <span class="align-self-center pb-3"
+                                style="font-size: 28px;"><u><i>hlpf@cadmun.org</i></u></span>
+                        </h4>
+                    </div>
                 </div>
-                <div class="d-flex justify-content-center">
-                    <p class="mb-5" style="margin-top: -10px;">
-                        <a href="mailto:ecosoc@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
-                    </p>
-                </div>
+                <p class="mb-5 d-flex justify-content-center" style="margin-top: -10px;">
+                    <a href="mailto:hlpf@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
+                </p>
                 <p class="mb-3" style="text-align: justify; font-size: 20px;">Established in 1945, ECOSOC is one of the
                     main organs of the United Nations. It concentrates in the three dimensions of sustainability; the
                     economic, social and environmental. The Economic and Social Council works with coordinating goals
@@ -90,8 +92,7 @@ debate, and always moving forward
                 <p class="mb-2 text-center" style="font-size: 23px; background-color: #741b47; color: white;"><b>PURPLE
                         DIVISION (10TH - COLLEGE)</b></p>
                 <p class="pt-5 mb-5 text-center">
-                    <a href="https://www.un.org/dppa/decolonization/en/ecosoc" class="btn btn-primary p-3">Visit
-                        Website</a>
+                    <a href="https://sustainabledevelopment.un.org/hlpf" class="btn btn-primary p-3">Visit Website</a>
                     <a href="#" class="btn btn-primary p-3">Background Paper</a>
                 </p>
             </div>
@@ -114,7 +115,7 @@ debate, and always moving forward
             <!--NAME 1-->
             <div class="col-6 mb-5">
                 <div class="block-41">
-                    <h4 class="block-41-heading mb-3 text-center" style="font-size: 40px;">Director</h4>
+                    <h4 class="block-41-heading mb-3 text-center" style="font-size: 55px;">Director</h4>
                     <div class="block-41-text text-center" style="font-size: 40px;">
                         <p>André Muñoz</p>
                         <a href="https://www.facebook.com/profile.php?id=100015012965115" class="p-2 text-primary"><span
@@ -131,7 +132,7 @@ debate, and always moving forward
             <!--NAME 2-->
             <div class="col-6 mb-5">
                 <div class="block-41">
-                    <h4 class="block-41-heading mb-3 text-center" style="font-size: 40px;">Moderator</h4>
+                    <h4 class="block-41-heading mb-3 text-center" style="font-size: 55px;">Moderator</h4>
                     <div class="block-41-text text-center" style="font-size: 40px;">
                         <p>Adrián Aragón</p>
                         <a href="https://www.instagram.com/adrianaragons/" class="p-2 text-primary"><span
