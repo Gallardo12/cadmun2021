@@ -48,56 +48,56 @@ Schedule
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-12 text-center">
-                <table class="table table-bordered table-dark">
+                <table class="table table-bordered  table-striped">
                     <thead>
-                        <tr style="background-color: teal;">
+                        <tr class="bg-primary">
                             <th scope="col" style="color: white; font-size: 20px;">March 18th</th>
                             <th scope="col" style="color: white; font-size: 20px;">March 19th</th>
                             <th scope="col" style="color: white; font-size: 20px;">March 20th</th>
                         </tr>
                     </thead>
                     <tbody>
-                        <tr style="background-color: #d9ecff;">
+                        <tr>
                             <td style="color: black;">8:00 - 8:45 PRACTICE SESSION (optional)</td>
                             <td style="color: black;">8:45 - 9:00 RECEPTION</td>
                             <td style="color: black;">8:45 - 9:00 RECEPTION</td>
                         </tr>
-                        <tr style="background-color: #e9dcff;">
+                        <tr>
                             <td style="color: black;">9:00 - 9:30 OPENING CEREMONY</td>
                             <td style="color: black;">9:00 - 10:30 CONFERENCE</td>
                             <td style="color: black;">9:00 - 10:15 GAME SHOW</td>
                         </tr>
-                        <tr style="background-color: #d9ecff;">
+                        <tr>
                             <td style="color: black;">9:45 - 11:00 FIRST SESSION</td>
                             <td style="color: black;">10:30 - 10:45 BREAK</td>
                             <td style="color: black;">10:15 - 10:30 BREAK</td>
                         </tr>
-                        <tr style="background-color: #e9dcff;">
+                        <tr>
                             <td style="color: black;">11:00 - 11:15 BREAK</td>
                             <td style="color: black;">10:45 - 12:00 FOURTH SESSION </td>
                             <td style="color: black;">10:30 - 11:45 SEVENTH SESSION</td>
                         </tr>
-                        <tr style="background-color: #d9ecff;">
+                        <tr>
                             <td style="color: black;">11:15 - 12:30 SECOND SESSION</td>
                             <td style="color: black;">12:00 - 12:15 BREAK</td>
                             <td style="color: black;">11:45 - 12:00 BREAK</td>
                         </tr>
-                        <tr style="background-color: #e9dcff;">
+                        <tr>
                             <td style="color: black;">12:45 - 13:00 BREAK</td>
                             <td style="color: black;">12:15 - 13:30 FIFTH SESSION</td>
                             <td style="color: black;">12:00 - 13:15 EIGHTH SESSION</td>
                         </tr>
-                        <tr style="background-color: #d9ecff;">
+                        <tr>
                             <td style="color: black;">13:00 - 14:15 THIRD SESSION</td>
                             <td style="color: black;">13:30 - 13:45 BREAK</td>
                             <td style="color: black;">13:15 - 13:30 BREAK</td>
                         </tr>
-                        <tr style="background-color: #e9dcff;">
+                        <tr>
                             <td style="color: black;">14:15 - 14:30 RECEPTION</td>
                             <td style="color: black;">13:45 - 15:00 SIXTH SESSION</td>
                             <td style="color: black;">13:30 - 14:30 FUN SESSION</td>
                         </tr>
-                        <tr style="background-color: #d9ecff;">
+                        <tr>
                             <td style="color: black;">14:30 - 15:30 *FIRST DAY FUN ACTIVITY*</td>
                             <td style="color: black;">15:00 - 15:30 MEET & GREET SESSION</td>
                             <td style="color: black;">14:30 - 15:30 CLOSING CEREMONY</td>
@@ -111,7 +111,7 @@ Schedule
         <div class="row justify-content-center mb-2 ">
             <div class="col-md-8 text-center">
                 <p class="pt-5 mb-5 text-center">
-                    <a href="PDFs/Schedule CADMUN 2021.pdf" target="_blank" download="Schedule CADMUN 2021"
+                    <a href="PDFs/Schedule CADMUN 2021.pdf" download="Schedule CADMUN 2021"
                         class="btn btn-primary py-3 px-5">Download</a>
                 </p>
             </div>

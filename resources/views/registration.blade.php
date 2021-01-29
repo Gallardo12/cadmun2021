@@ -50,8 +50,8 @@ Registration process
             <div class="col-md-8 text-center">
                 <h2 class=" heading mb-4">Registration Process to CADMUN 2021</h2>
                 <p class="mb-5 lead" style="font-size: 25px;">Please follow the instructions below carefully in order to
-                    register. These instructions only apply to people who are not <a href="http://cadurango.mx/">ASD</a>
-                    students. Registration closes on <u><i>February 17.</i></u></p>
+                    register. These instructions only apply to people who are not <a href="http://cadurango.mx/" target="_blank">ASD</a>
+                    students. Registration closes on <u><i>March 8th.</i></u></p>
             </div>
         </div>
         <div class="row justify-content-center">
@@ -67,20 +67,6 @@ Registration process
                         <p style="color: #ff0000;">ii. Red division (7th - 10th)</p>
                         <p style="color: #1155cc;">iii. Blue division (9th - 12th)</p>
                         <p style="color: #741b47;">iv. Purple division (10th - College)</p>
-                    </div>
-                    <p>d) Payment receipt.</p>
-                    <div class="container ml-5">
-                        <p>i. 500MXN / delegate fee should be paid to the following account: </p>
-                        <div class="container ml-5">
-                            <p>1. Bank name: GRUPO FINANCIERO BANORTE</p>
-                            <p>2. Account holder: COLEGIO AMERICANO DE DURANGO AC</p>
-                            <p>3. Account number: 0641552447</p>
-                            <p>4. CLABE (for national transactions): 072190006415524479</p>
-                            <p>5. SWIFT (for international transactions): MENOMXMTXXX</p>
-                        </div>
-                        <p>ii. The deposit/transfer concept should include:</p>
-                        <p>FIRST NAME LAST NAME, SCHOOL, CADMUN 2021.</p>
-                        <p>EXAMPLE: DANIELA RIVAS. AMERICAN SCHOOL OF DURANGO. CADMUN 2021.</p>
                     </div>
                 </div>
                 <p>2) CADMUN 2021 will provide the available countries and committees according to your selection.</p>
