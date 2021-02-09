@@ -110,6 +110,7 @@ Schedule
     <div class="container">
         <div class="row justify-content-center mb-2 ">
             <div class="col-md-8 text-center">
+                <h3>CST Timezone  (GMT -6)</h3>
                 <p class="pt-5 mb-5 text-center">
                     <a href="PDFs\Schedule_CADMUN_2021.pdf" target="_blank" download="Schedule CADMUN 2021"
                         class="btn btn-primary py-3 px-5">Download</a>
