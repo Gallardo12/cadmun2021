@@ -94,7 +94,7 @@ relationships between nations
                         DIVISION (9TH - 12TH)</b></p>
                 <p class="pt-5 mb-5 text-center">
                     <a href="https://peacekeeping.un.org/en" class="btn btn-primary p-3">Visit Website</a>
-                    <a href="#" class="btn btn-primary p-3">Background Paper</a>
+                    <a href="PDFs\13_PEACEKEEPING_BACKGROUND_PAPER.pdf" target="_blank" class="btn btn-primary p-3">Background Paper</a>
                 </p>
             </div>
         </div>

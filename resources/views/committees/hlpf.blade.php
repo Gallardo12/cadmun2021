@@ -93,7 +93,7 @@ debate, and always moving forward
                         DIVISION (10TH - COLLEGE)</b></p>
                 <p class="pt-5 mb-5 text-center">
                     <a href="https://sustainabledevelopment.un.org/hlpf" class="btn btn-primary p-3">Visit Website</a>
-                    <a href="#" class="btn btn-primary p-3">Background Paper</a>
+                    <a href="PDFs\4_HLPF_BACKGROUND_PAPER.pdf" target="_blank" class="btn btn-primary p-3">Background Paper</a>
                 </p>
             </div>
         </div>

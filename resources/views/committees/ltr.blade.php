@@ -96,7 +96,7 @@ and interactive experience!
                         DIVISION (9TH - 12TH)</b></p>
                 <p class="pt-5 mb-5 text-center">
                     <!--<a href="https://www.un.org/en/ga/" class="btn btn-primary p-3">Visit Website</a>-->
-                    <a href="#" class="btn btn-primary p-3">Background Paper</a>
+                    <a href="PDFs\10_LTR_BACKGROUND_PAPER.pdf" target="_blank" class="btn btn-primary p-3">Background Paper</a>
                 </p>
             </div>
         </div>

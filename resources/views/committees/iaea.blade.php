@@ -83,7 +83,7 @@ Security, Science and Technology, and Safeguards and Verification
                         DIVISION (7TH - 9TH)</b></p>
                 <p class="pt-5 mb-5 text-center">
                     <a href="https://www.iaea.org/" class="btn btn-primary p-3">Visit Website</a>
-                    <a href="#" class="btn btn-primary p-3">Background Paper</a>
+                    <a href="PDFs\6_IAEA_BACKGROUND_PAPER.pdf" target="_blank" class="btn btn-primary p-3">Background Paper</a>
                 </p>
             </div>
         </div>

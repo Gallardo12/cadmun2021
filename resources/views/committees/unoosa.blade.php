@@ -92,7 +92,7 @@ development
                         DIVISION (7TH - 10TH)</b></p>
                 <p class="pt-5 mb-5 text-center">
                     <a href="https://www.unoosa.org/" class="btn btn-primary p-3">Visit Website</a>
-                    <a href="#" class="btn btn-primary p-3">Background Paper</a>
+                    <a href="PDFs\7_UNOOSA_BACKGROUND_PAPER.pdf" target="_blank" class="btn btn-primary p-3">Background Paper</a>
                 </p>
             </div>
         </div>

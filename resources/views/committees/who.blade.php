@@ -92,7 +92,7 @@ nations, this website gives information about COVID-19
                         DIVISION (7TH - 9TH)</b></p>
                 <p class="pt-5 mb-5 text-center">
                     <a href="https://www.who.int/" class="btn btn-primary p-3">Visit Website</a>
-                    <a href="#" class="btn btn-primary p-3">Background Paper</a>
+                    <a href="PDFs\3_WHO_BACKGROUND_PAPER.pdf" target="_blank" class="btn btn-primary p-3">Background Paper</a>
                 </p>
             </div>
         </div>
