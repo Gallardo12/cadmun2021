@@ -97,6 +97,10 @@ Route::get('/schedule', function () {
     return view('schedule');
 });
 
+Route::get('/frequently-asked-questions', function () {
+    return view('faq');
+});
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

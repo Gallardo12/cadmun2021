@@ -81,19 +81,31 @@ debate, and always moving forward
                 <p class="mb-5 d-flex justify-content-center" style="margin-top: -10px;">
                     <a href="mailto:hlpf@cadmun.org" class="btn btn-primary px-3 py-2">Send e-mail</a>
                 </p>
-                <p class="mb-3" style="text-align: justify; font-size: 20px;">Established in 1945, ECOSOC is one of the
-                    main organs of the United Nations. It concentrates in the three dimensions of sustainability; the
-                    economic, social and environmental. The Economic and Social Council works with coordinating goals
-                    agreed internationally. It organizes the work of 14 specialized agencies of the United Nations.
-                    Every year in July ECOSOC holds a four-week session in Geneva or New York with crucial economic
-                    committees like the International Monetary Fund and the World Bank, they discuss goals and
-                    challenges like the 2030 Agenda for Sustainable Development. This organ encourages innovation,
-                    debate, and always moving forward.</p>
-                <p class="mb-2 text-center" style="font-size: 23px; background-color: #741b47; color: white;"><b>PURPLE
+                <p class="mb-3" style="text-align: justify; font-size: 20px;">The United Nations High-level Political
+                    Forum on Sustainable Development (HLPF) is a body from the United Nations General Assembly and the
+                    United Nations Economic and Social Council. Is responsible for all the organization's policies on
+                    sustainable growth. It adopts negotiated declarations, reviews engagement, and the progress of the
+                    2030 Agenda for Sustainable Development.</p>
+                <p class="mb-3" style="text-align: justify; font-size: 20px;">The HLPF meets annually under the
+                    protection of the Economic and Social Council, and every four years under the support of the General
+                    Assembly with a level of Heads of State and Government.</p>
+                <p class="mb-3" style="text-align: justify; font-size: 20px;">Preparations for the annual HLPF include:
+                </p>
+                <div class="container ml-5 mb-5">
+                    <p>i. Local previous meetings assembled by the UN Economic Commissions.</p>
+                    <p>ii. Accurate data to the HLPF (submitted also by OHCHR, Human Rights Council, and Treaty Bodies).
+                    </p>
+                    <p>iii. Preparation of Voluntary National Reviews;</p>
+                    <p>iv. And a variety of expert group meetings.</p>
+                </div>
+                <p class="mb-2 text-center" style="font-size: 23px; background-color: #741b47; color: white;">
+                    <b>PURPLE
                         DIVISION (10TH - COLLEGE)</b></p>
                 <p class="pt-5 mb-5 text-center">
-                    <a href="https://sustainabledevelopment.un.org/hlpf" class="btn btn-primary p-3">Visit Website</a>
-                    <a href="PDFs\4_HLPF_BACKGROUND_PAPER.pdf" target="_blank" class="btn btn-primary p-3">Background Paper</a>
+                    <a href="https://sustainabledevelopment.un.org/hlpf" class="btn btn-primary p-3">Visit
+                        Website</a>
+                    <a href="PDFs\4_HLPF_BACKGROUND_PAPER.pdf" target="_blank" class="btn btn-primary p-3">Background
+                        Paper</a>
                 </p>
             </div>
         </div>
