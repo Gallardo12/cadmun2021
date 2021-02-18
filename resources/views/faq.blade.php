@@ -187,8 +187,8 @@ FAQ
                             data-parent="#accordion">
                             <div class="card-body" style="color: black; font-size: 20px;">
                                 CADMUN 2021 will be held in an online format for safety purposes regarding the COVID-19
-                                pandemic. The event will be mainly carried out through the discord platform, do you want
-                                to know more? Click <a href="https://discord.com/" target="_blank">here</a>.
+                                pandemic. The event will be mainly carried out through the ZOOM platform, do you want
+                                to know more? Click <a href="https://zoom.us/" target="_blank">here</a>.
                             </div>
                         </div>
                     </div>

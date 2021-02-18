@@ -86,7 +86,7 @@ humanity into the unknown future, you as a delegate can make the change!
                         DIVISION (6TH)</b></p>
                 <p class="pt-5 mb-5 text-center">
                     <!--<a href="https://www.un.org/en/ga/" class="btn btn-primary p-3">Visit Website</a>-->
-                    <a href="#" class="btn btn-primary p-3">Background Paper</a>
+                    <!--a href="#" class="btn btn-primary p-3">Background Paper</a-->
                 </p>
             </div>
         </div>

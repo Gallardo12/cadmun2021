@@ -417,7 +417,7 @@ awareness for different ways of thinking that can be found all over the world.
                 <div class="feature-1 d-md-flex">
                     <div class="align-self-center text-center">
                         <span class="display-2 text-primary element-animate">
-                            <ion-icon name="logo-discord"></ion-icon>
+                            <ion-icon name="videocam-outline"></ion-icon>
                         </span>
                         <span class="display-2 text-primary element-animate">
                             <ion-icon name="git-compare-outline"></ion-icon>
@@ -428,11 +428,11 @@ awareness for different ways of thinking that can be found all over the world.
                         <h3 style="font-size: 25px; text-align: center;">Online Environment</h3>
                         <p style="font-size: 20px; text-align: justify;">Given the health crisis, we have decided that
                             CADMUN 2021 will be held online, where delegates, chairs, staff and secretariat will be
-                            managed by the Discord platform. Nevertheless, this will be the first time that CADMUN will
+                            managed by the ZOOM platform. Nevertheless, this will be the first time that CADMUN will
                             be held at an international level.</p>
                         <p class="mt-4 text-center">
-                            <a href="https://discord.com/download" target="_blank" class="btn btn-primary py-3 px-5"
-                                style="font-size: 18px;">Download Discord</a>
+                            <a href="https://zoom.us/" target="_blank" class="btn btn-primary py-3 px-5"
+                                style="font-size: 18px;">Download ZOOM</a>
                         </p>
                     </div>
                 </div>
