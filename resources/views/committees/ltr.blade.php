@@ -97,7 +97,7 @@ and interactive experience!
                 <p class="pt-5 mb-5 text-center">
                     <!--<a href="https://www.un.org/en/ga/" class="btn btn-primary p-3">Visit Website</a>-->
                     <a href="PDFs\10_LTR_BACKGROUND_PAPER.pdf" target="_blank" class="btn btn-primary p-3">Background Paper</a>
-                    <a href="PDFs\LTR_Extended_Information.pdf" target="_blank" class="btn btn-primary p-3">Timeline</a>
+                    <a href="PDFs\LTR_Extended_Information.pdf" target="_blank" class="btn btn-primary p-3">Extended Information</a>
                     <a href="PDFs\LTR_Time_Line.pdf" target="_blank" class="btn btn-primary p-3">Timeline</a>
                 </p>
             </div>

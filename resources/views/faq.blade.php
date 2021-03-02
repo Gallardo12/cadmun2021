@@ -114,7 +114,7 @@ FAQ
                                 icj@cadmun.org.
                             </div>
                             <a href="PDFs/ICJ_Rules_and_Procedure.pdf" target="_blank"
-                                download="CADMUN_2021_ICJ_Rules_and_Procedure" class="btn btn-primary mb-5 p-3">ICJ
+                                class="btn btn-primary mb-5 p-3">ICJ
                                 Rules and Procedure</a>
                         </div>
                     </div>
