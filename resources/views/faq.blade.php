@@ -93,7 +93,7 @@ FAQ
                         </div>
                     </div>
                     <!--CARD 3-->
-                    <!--div class="card">
+                    <div class="card">
                         <div class="card-header" id="headingThree">
                             <h5 class="py-2">
                                 <button class="btn btn-link collapsed" data-toggle="collapse"
@@ -117,7 +117,7 @@ FAQ
                                 download="CADMUN_2021_ICJ_Rules_and_Procedure" class="btn btn-primary mb-5 p-3">ICJ
                                 Rules and Procedure</a>
                         </div>
-                    </div-->
+                    </div>
                     <!--CARD 4-->
                     <div class="card">
                         <div class="card-header" id="headingThree">
