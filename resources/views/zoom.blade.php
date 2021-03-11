@@ -13,7 +13,7 @@ Given the health crisis, we have decided that CADMUN 2021 will be held online, w
 @endsection
 
 @section('image-url')
-images/Galeria/secretariat-img-2.jpg
+images/Galeria/online_work.jpg
 @endsection
 
 @section('page-url')
