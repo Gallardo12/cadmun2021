@@ -101,6 +101,10 @@ Route::get('/frequently-asked-questions', function () {
     return view('faq');
 });
 
+Route::get('/zoom-guide', function () {
+    return view('zoom');
+});
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

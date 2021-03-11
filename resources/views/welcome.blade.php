@@ -396,7 +396,7 @@ awareness for different ways of thinking that can be found all over the world.
 </section>
 <!-- END COMMITTEES SECTION-->
 
-<!--START DISCORD SECTION-->
+<!--START ZOOM SECTION-->
 <section class="section">
     <div class="container">
         <div class="row mb-3">

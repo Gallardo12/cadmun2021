@@ -61,8 +61,7 @@ humanity into the unknown future, you as a delegate can make the change!
         </div>
         <div class="row justify-content-center">
             <div class="col-md-8">
-                <h2 class="mb-5" style="text-align: center;">Topic: The Restructuring of International Ideologies
-                    Regarding Social Justice</h2>
+                <h2 class="mb-5" style="text-align: center;">Topic: Establishing Diplomatic Relations between Nations and Planets to save Humanity</h2>
                 <div class="d-flex justify-content-center">
                     <h4 style="text-align: center;">
                         <span class="text-primary mx-3" style="font-size: 48px;">

@@ -125,6 +125,9 @@
                         <li class="nav-item">
                             <a class="nav-link @yield('page-active6')" href="/frequently-asked-questions">FAQ</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link @yield('page-active7')" href="/zoom-guide">Zoom Guide</a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -184,6 +187,7 @@
                         <li><a href="/secretariat" class="text-white">Secretariat</a></li>
                         <li><a href="/schedule" class="text-white">Schedule</a></li>
                         <li><a href="/frequently-asked-questions" target="_blank" class="text-white">FAQ</a></li>
+                        <li><a href="/zoom-guide" target="_blank" class="text-white">Zoom Guide</a></li>
                     </ul>
                 </div>
             </div>
